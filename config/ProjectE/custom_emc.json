@@ -1745,6 +1745,14 @@
       "emc": 512
     },
     {
+      "item": "mekanism:dust_gold",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:dust_diamond",
+      "emc": 8192
+    },
+    {
       "item": "mekanism:dust_refined_obsidian",
       "emc": 8199
     },
@@ -1900,11 +1908,11 @@
       "item": "immersiveengineering:seed",
       "emc": 16
     },
-	{
+    {
       "item": "immersiveengineering:dust_sulfur",
       "emc": 16
     },
-	{
+    {
       "item": "electrodynamics:dustsulfur",
       "emc": 16
     },
@@ -2503,6 +2511,14 @@
     {
       "item": "theabyss:abyssloranitem",
       "emc": 256
+    },
+    {
+      "item": "car:canola_seeds",
+      "emc": 64
+    },
+    {
+      "item": "car:canola",
+      "emc": 64
     }
   ]
 }
