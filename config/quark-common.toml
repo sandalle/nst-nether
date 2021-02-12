@@ -154,9 +154,6 @@
 		#
 		#Allowed values: [0,)
 		"Stick Block Fuel Time" = 900
-		#
-		#Allowed values: [0,)
-		"Bamboo Bundle Fuel Time" = 500
 		"Enable Charcoal Block" = true
 		"Enable Sugar Cane Block" = true
 		"Enable Bamboo Block" = true
@@ -175,6 +172,9 @@
 		"Enable Blaze Lantern" = true
 		"Enable Bonded Leather" = true
 		"Enable Bonded Rabbit Hide" = true
+		#
+		#Allowed values: [0,)
+		"Bamboo Bundle Fuel Time" = 500
 
 	[building.more_brick_types]
 		"Enable Sandy Bricks" = true

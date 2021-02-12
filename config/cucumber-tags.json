@@ -1,6 +1,6 @@
 {
   "__comment": "Instructions: https://mods.blakebr0.com/docs/cucumber/tags-config",
-  "forge:ingots/tungsten": "chemlib:ingot_tungsten",
+  "forge:ingots/tungsten": "bluepower:tungsten_ingot",
   "forge:ingots/copper": "silents_mechanisms:copper_ingot",
   "forge:silicon": "refinedstorage:silicon",
   "forge:dusts/saltpeter": "immersiveengineering:dust_saltpeter",

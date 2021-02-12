@@ -1,0 +1,44 @@
+
+[Oregen]
+	#Should C.O.M.B.A.T. copper ores spawn ingame
+	"Generate Copper Ore" = false
+	#Should C.O.M.B.A.T. limestone spawn ingame
+	"Generate Limestone" = true
+	#Should C.O.M.B.A.T. cassiterite spawn ingame
+	"Generate Cassiterite" = true
+	#Should C.O.M.B.A.T. ruby ores spawn ingame
+	"Generate Ruby Ore" = true
+	#Should C.O.M.B.A.T. oil spawn ingame
+	"Generate Oil" = true
+	#Max number of oil veins that can spawn in one chunk
+	#Range: 1 ~ 100
+	"Oil Chance" = 1
+
+[oregen]
+	#Max number of copper ore veins that can spawn in one chunk
+	#Range: 1 ~ 100
+	"Copper Chance" = 30
+	#Max number of tridox ore veins that can spawn in one chunk
+	#Range: 1 ~ 100
+	"Tridox Chance" = 20
+
+["Structure Generation"]
+	#
+	#The probability that an Etherion Tower will spawn in the world if the spawn conditions are met
+	#The higher the number the greater the chance
+	#Default: 0.5
+	#Range: 0.1 ~ 1.0
+	"Etherion Tower Spawn Probability" = 0.5
+	#
+	#The probability that a Magic Stone Deposit will spawn in the world if the spawn conditions are met
+	#The higher the number the greater the chance
+	#Default: 0.5
+	#Range: 0.1 ~ 1.0
+	"Magic Stone Deposit Spawn Probability" = 0.5
+	#
+	#The probability that an Acrotlest Portal will spawn in the world if the spawn conditions are met
+	#The higher the number the greater the chance
+	#Default: 0.5
+	#Range: 0.1 ~ 1.0
+	"Acrotlest Portal Spawn Probability" = 0.5
+

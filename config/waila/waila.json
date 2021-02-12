@@ -18,7 +18,6 @@
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
     "overlaySquare": false,
-    "flipMainHand": false,
     "color": {
       "alpha": 50,
       "themes": [

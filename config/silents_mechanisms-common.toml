@@ -1,7 +1,7 @@
 
 [general]
 	#Shows a message in chat warning the player that the mod is early in development
-	showBetaWelcomeMessage = true
+	showBetaWelcomeMessage = false
 
 [machine]
 
@@ -33,7 +33,7 @@
 			veinCount = 8
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 8
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 40
@@ -47,7 +47,7 @@
 			veinCount = 8
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 8
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 20
@@ -61,7 +61,7 @@
 			veinCount = 4
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 8
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 0
@@ -75,7 +75,7 @@
 			veinCount = 4
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 8
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 0
@@ -89,7 +89,7 @@
 			veinCount = 1
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 6
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 0
@@ -117,7 +117,7 @@
 			veinCount = 4
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 8
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 20
@@ -145,7 +145,7 @@
 			veinCount = 6
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 8
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 15
@@ -159,7 +159,7 @@
 			veinCount = 1
 			#Size of veins
 			#Range: 0 ~ 100
-			veinSize = 4
+			veinSize = 0
 			#Minimum Y-coordinate (base height) of veins
 			#Range: 0 ~ 255
 			minHeight = 0

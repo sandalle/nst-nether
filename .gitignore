@@ -7,3 +7,4 @@ Session.vim
 .*DS_Store
 
 # Files we don't want to track
+config/corail_backpack-client.toml

@@ -1,4 +1,2508 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 57344
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:smooth_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:end_stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:sawdust",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:soulstone_cobble",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence",
+      "emc": 512
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence",
+      "emc": 2048
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence",
+      "emc": 8192
+    },
+    {
+      "item": "mysticalagradditions:insanium_essence",
+      "emc": 32768
+    },
+    {
+      "item": "industrialforegoing:plastic",
+      "emc": 32
+    },
+    {
+      "item": "vampirism:item_garlic",
+      "emc": 96
+    },
+    {
+      "item": "tombstone:grave_dust",
+      "emc": 384
+    },
+    {
+      "item": "quark:tallow",
+      "emc": 32
+    },
+    {
+      "item": "quark:basalt",
+      "emc": 1
+    },
+    {
+      "item": "quark:marble",
+      "emc": 1
+    },
+    {
+      "item": "quark:elder_prismarine",
+      "emc": 1
+    },
+    {
+      "item": "quark:limestone",
+      "emc": 1
+    },
+    {
+      "item": "quark:cobbedstone",
+      "emc": 1
+    },
+    {
+      "item": "quark:brimstone",
+      "emc": 1
+    },
+    {
+      "item": "quark:biotite",
+      "emc": 256
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 1
+    },
+    {
+      "item": "quark:slate",
+      "emc": 1
+    },
+    {
+      "item": "quark:permafrost",
+      "emc": 1
+    },
+    {
+      "item": "pamhc2trees:pamapple",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamavocado",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcandlenut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcherry",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamchestnut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamgooseberry",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamlemon",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamnutmeg",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamorange",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampeach",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampear",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamplum",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamwalnut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamspiderweb",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamhazelnut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampawpaw",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamsoursop",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamalmond",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamapricot",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pambanana",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcashew",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcoconut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamdate",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamdragonfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamdurian",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamfig",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcinnamon",
+      "emc": 32
+    },
+    {
+      "item": "pamhc2trees:pampaperbark",
+      "emc": 32
+    },
+    {
+      "item": "pamhc2trees:pamgrapefruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamlime",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pammango",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamolive",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampapaya",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampecan",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampeppercorn",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampersimmon",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampistachio",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampomegranate",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamstarfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamvanillabean",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pambreadfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamguava",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamjackfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamlychee",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampassionfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamrambutan",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamtamarind",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampinenut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:avocadoitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:candlenutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:cherryitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:chestnutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:gooseberryitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pammaple",
+      "emc": 32
+    },
+    {
+      "item": "pamhc2trees:lemonitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:nutmegitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pearitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:orangeitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:peachitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:plumitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:walnutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:hazelnutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pawpawitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:soursopitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:almonditem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:apricotitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:bananaitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:cashewitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:cinnamonitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:coconutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:dateitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:dragonfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:durianitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:figitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:grapefruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:limeitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:mangoitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:oliveitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:papayaitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pecanitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:peppercornitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:persimmonitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pistachioitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pomegranateitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:starfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:vanillabeanitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:breadfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:guavaitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:jackfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:lycheeitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:passionfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:rambutanitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:tamarinditem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:maplesyrupitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pinenutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem",
+      "emc": 2
+    },
+    {
+      "item": "pamhc2crops:barleyitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:ryeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:amaranthitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:beanitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chickpeaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:milletitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lentilitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:quinoaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:riceitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cornitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:oatsitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cottonitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:flaxitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kenafitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juteitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sisalitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:artichokeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:asparagusitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:bellpepperitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:broccoliitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:soybeanitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:brusselsproutitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cabbageitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:caulifloweritem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:celeryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chilipepperitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cucumberitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:eggplantitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kaleitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lettuceitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:okraitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peasitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spinachitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatilloitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatoitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:wintersquashitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:zucchiniitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:arrowrootitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cassavaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:garlicitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:jicamaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:leekitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kohlrabiitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:onionitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:parsnipitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peanutitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:radishitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rhubarbitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rutabagaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:scallionitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sweetpotatoitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:taroitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:turnipitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:waterchestnutitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blackberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blueberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cactusfruititem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:candleberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cantaloupeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cranberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:elderberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:grapeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:greengrapeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:huckleberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juniperberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kiwiitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mulberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:pineappleitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:raspberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:strawberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:coffeebeanitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tealeafitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:agaveitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:whitemushroomitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:gingeritem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sesameseedsitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spiceleafitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mustardseedsitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:agaveseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:amaranthseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:arrowrootseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:artichokeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:asparagusseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:barleyseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:beanseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:bellpepperseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blackberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blueberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:broccoliseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:brusselsproutseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cabbageseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cactusfruitseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:candleberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cantaloupeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cassavaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cauliflowerseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:celeryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chickpeaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chilipepperseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:coffeebeanseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cornseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cottonseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cranberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cucumberseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:eggplantseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:elderberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:flaxseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:garlicseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:gingerseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:grapeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:greengrapeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:huckleberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:jicamaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juniperberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juteseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kaleseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kenafseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kiwiseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kohlrabiseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:leekseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lentilseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lettuceseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:milletseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mulberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mustardseedsseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:oatsseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:okraseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:onionseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:parsnipseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peanutseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peasseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:pineappleseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:quinoaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:radishseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:raspberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rhubarbseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:riceseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rutabagaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:ryeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:scallionseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sesameseedsseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sisalseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:soybeanseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spiceleafseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spinachseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:strawberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sweetpotatoseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:taroseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tealeafseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatilloseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatoseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:turnipseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:waterchestnutseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:whitemushroomseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:wintersquashseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:zucchiniseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2foodcore:saltitem",
+      "emc": 96
+    },
+    {
+      "item": "biomesoplenty:white_sand",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:mud",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:flesh",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:toadstool_block",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:glowshroom_block",
+      "emc": 1
+    },
+    {
+      "item": "cyclic:peat_baked",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:hdpe_sheet",
+      "emc": 2048
+    },
+    {
+      "item": "quark:frog_leg",
+      "emc": 64
+    },
+    {
+      "item": "quark:crab_leg",
+      "emc": 64
+    },
+    {
+      "item": "quark:crab_shell",
+      "emc": 64
+    },
+    {
+      "item": "solarflux:mirror",
+      "emc": 86
+    },
+    {
+      "item": "quark:dirty_glass",
+      "emc": 1
+    },
+    {
+      "item": "quark:dirty_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "solarflux:blank_upgrade",
+      "emc": 90
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_1",
+      "emc": 2853
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_2",
+      "emc": 5665
+    },
+    {
+      "item": "solarflux:sp_1",
+      "emc": 362
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_3",
+      "emc": 6948
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_4",
+      "emc": 18052
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_5",
+      "emc": 101508
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_6",
+      "emc": 229508
+    },
+    {
+      "item": "solarflux:sp_2",
+      "emc": 3244
+    },
+    {
+      "item": "solarflux:sp_3",
+      "emc": 12021
+    },
+    {
+      "item": "solarflux:sp_4",
+      "emc": 37819
+    },
+    {
+      "item": "solarflux:sp_5",
+      "emc": 95468
+    },
+    {
+      "item": "solarflux:sp_6",
+      "emc": 255774
+    },
+    {
+      "item": "solarflux:sp_7",
+      "emc": 663960
+    },
+    {
+      "item": "solarflux:sp_8",
+      "emc": 1934327
+    },
+    {
+      "item": "solarflux:efficiency_upgrade",
+      "emc": 3201
+    },
+    {
+      "item": "solarflux:transfer_rate_upgrade",
+      "emc": 4570
+    },
+    {
+      "item": "solarflux:capacity_upgrade",
+      "emc": 74138
+    },
+    {
+      "item": "solarflux:traversal_upgrade",
+      "emc": 2002
+    },
+    {
+      "item": "solarflux:dispersive_upgrade",
+      "emc": 5850
+    },
+    {
+      "item": "solarflux:block_charging_upgrade",
+      "emc": 12250
+    },
+    {
+      "item": "solarflux:furnace_upgrade",
+      "emc": 994
+    },
+    {
+      "item": "botania:livingwood",
+      "emc": 48
+    },
+    {
+      "item": "botania:livingrock",
+      "emc": 4
+    },
+    {
+      "item": "botania:brown_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:green_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:red_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:black_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:white_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:orange_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:magenta_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:light_blue_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:yellow_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:blue_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:purple_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:cyan_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:light_gray_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:gray_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:pink_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:lime_petal",
+      "emc": 48
+    },
+    {
+      "item": "botania:manasteel_ingot",
+      "emc": 320
+    },
+    {
+      "item": "botania:terrasteel_ingot",
+      "emc": 14144
+    },
+    {
+      "item": "botania:elementium_ingot",
+      "emc": 960
+    },
+    {
+      "item": "botania:life_essence",
+      "emc": 8192
+    },
+    {
+      "item": "botania:mana_pearl",
+      "emc": 1536
+    },
+    {
+      "item": "botania:mana_diamond",
+      "emc": 12288
+    },
+    {
+      "item": "botania:mana_string",
+      "emc": 18
+    },
+    {
+      "item": "botania:dreamwood",
+      "emc": 96
+    },
+    {
+      "item": "botania:metamorphic_forest_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_plains_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_mountain_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_fungal_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_swamp_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_desert_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_taiga_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_mesa_stone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_forest_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_plains_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_mountain_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_fungal_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_swamp_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_desert_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_taiga_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:metamorphic_mesa_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botania:grass_seeds",
+      "emc": 4
+    },
+    {
+      "item": "botania:mana_glass",
+      "emc": 4
+    },
+    {
+      "item": "botania:elf_glass",
+      "emc": 8
+    },
+    {
+      "item": "botania:mana_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "botania:elf_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "botania:bifrost_perm",
+      "emc": 16
+    },
+    {
+      "item": "botania:bifrost_pane",
+      "emc": 1
+    },
+    {
+      "item": "botania:quartz_elven",
+      "emc": 280
+    },
+    {
+      "item": "botania:quartz_mana",
+      "emc": 280
+    },
+    {
+      "item": "botania:dragonstone",
+      "emc": 24456
+    },
+    {
+      "item": "botania:ender_air_bottle",
+      "emc": 1792
+    },
+    {
+      "item": "botania:pixie_dust",
+      "emc": 1560
+    },
+    {
+      "item": "botania:mana_powder",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:orange_sand",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:black_sand",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:mud_ball",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:salt",
+      "emc": 96
+    },
+    {
+      "item": "mekanism:ingot_osmium",
+      "emc": 512
+    },
+    {
+      "item": "janoeo:osmium_ingot",
+      "emc": 512
+    },
+    {
+      "item": "chemlib:ingot_osmium",
+      "emc": 96
+    },
+    {
+      "item": "silents_mechanisms:silver_ingot",
+      "emc": 512
+    },
+    {
+      "item": "electrodynamics:ingotsilver",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:ingot_silver",
+      "emc": 512
+    },
+    {
+      "item": "janoeo:silver_ingot",
+      "emc": 512
+    },
+    {
+      "item": "silentgems:silver_ingot",
+      "emc": 512
+    },
+    {
+      "item": "chemlib:ingot_silver",
+      "emc": 512
+    },
+    {
+      "item": "silents_mechanisms:lead_ingot",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:ingot_lead",
+      "emc": 512
+    },
+    {
+      "item": "electrodynamics:ingotlead",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:ingot_lead",
+      "emc": 512
+    },
+    {
+      "item": "janoeo:lead_ingot",
+      "emc": 512
+    },
+    {
+      "item": "chemlib:ingot_lead",
+      "emc": 512
+    },
+    {
+      "item": "silents_mechanisms:copper_ingot",
+      "emc": 128
+    },
+    {
+      "item": "tmechworks:copper_ingot",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:ingot_copper",
+      "emc": 128
+    },
+    {
+      "item": "electrodynamics:ingotcopper",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:ingot_copper",
+      "emc": 128
+    },
+    {
+      "item": "janoeo:copper_ingot",
+      "emc": 128
+    },
+    {
+      "item": "chemlib:ingot_copper",
+      "emc": 128
+    },
+    {
+      "item": "silents_mechanisms:tin_ingot",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:ingot_tin",
+      "emc": 256
+    },
+    {
+      "item": "electrodynamics:ingottin",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:tin_ingot",
+      "emc": 256
+    },
+    {
+      "item": "chemlib:ingot_tin",
+      "emc": 256
+    },
+    {
+      "item": "silents_mechanisms:platinum_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "chemlib:ingot_platinum",
+      "emc": 4096
+    },
+    {
+      "item": "silents_mechanisms:uranium_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:ingot_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:ingot_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:ingot_constantan",
+      "emc": 384
+    },
+    {
+      "item": "janoeo:uranium_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "bigreactors:yellorium_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "bigreactors:cyanite_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "chemlib:ingot_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "silents_mechanisms:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "chemlib:ingot_zinc",
+      "emc": 256
+    },
+    {
+      "item": "electrodynamics:dustobsidian",
+      "emc": 8192
+    },
+    {
+      "item": "janoeo:diamond_dust",
+      "emc": 8192
+    },
+    {
+      "item": "janoeo:uranium_dust",
+      "emc": 4096
+    },
+    {
+      "item": "janoeo:tin_dust",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:copper_dust",
+      "emc": 128
+    },
+    {
+      "item": "janoeo:nickel_dust",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:platinum_dust",
+      "emc": 4096
+    },
+    {
+      "item": "janoeo:gold_dust",
+      "emc": 2048
+    },
+    {
+      "item": "janoeo:iron_dust",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:lapis_dust",
+      "emc": 864
+    },
+    {
+      "item": "janoeo:aluminium_dust",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:lead_dust",
+      "emc": 512
+    },
+    {
+      "item": "janoeo:silver_dust",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:dust_electrum",
+      "emc": 1280
+    },
+    {
+      "item": "immersiveengineering:dust_constantan",
+      "emc": 384
+    },
+    {
+      "item": "mekanism:enriched_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "mekanism:dust_steel",
+      "emc": 416
+    },
+    {
+      "item": "mekanism:dust_osmium",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dust_refined_obsidian",
+      "emc": 8199
+    },
+    {
+      "item": "mekanism:enriched_carbon",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:enriched_iron",
+      "emc": 384
+    },
+    {
+      "item": "mekanism:enriched_redstone",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:enriched_refined_obsidian",
+      "emc": 8199
+    },
+    {
+      "item": "mekanism:enriched_gold",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:enriched_tin",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:ingot_refined_obsidian",
+      "emc": 8711
+    },
+    {
+      "item": "mekanism:ingot_steel",
+      "emc": 416
+    },
+    {
+      "item": "mekanism:alloy_infused",
+      "emc": 320
+    },
+    {
+      "item": "mekanism:alloy_reinforced",
+      "emc": 16704
+    },
+    {
+      "item": "mekanism:alloy_atomic",
+      "emc": 49500
+    },
+    {
+      "item": "mekanism:basic_control_circuit",
+      "emc": 640
+    },
+    {
+      "item": "mekanism:advanced_control_circuit",
+      "emc": 1280
+    },
+    {
+      "item": "mekanism:elite_control_circuit",
+      "emc": 34688
+    },
+    {
+      "item": "mekanism:ultimate_control_circuit",
+      "emc": 133688
+    },
+    {
+      "item": "mapperbase:raw_bitumen",
+      "emc": 16
+    },
+    {
+      "item": "ars_nouveau:mana_gem",
+      "emc": 2048
+    },
+    {
+      "item": "immersiveengineering:hemp_fiber",
+      "emc": 4
+    },
+    {
+      "item": "immersiveengineering:ingot_nickel",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:ingot_electrum",
+      "emc": 1280
+    },
+    {
+      "item": "janoeo:aluminium_ingot",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:plate_nickel",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:plate_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:plate_copper",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:plate_lead",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:plate_aluminum",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:plate_silver",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:plate_iron",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:plate_steel",
+      "emc": 416
+    },
+    {
+      "item": "immersiveengineering:plate_gold",
+      "emc": 2048
+    },
+    {
+      "item": "immersiveengineering:plate_electrum",
+      "emc": 1280
+    },
+    {
+      "item": "immersiveengineering:plate_constantan",
+      "emc": 384
+    },
+    {
+      "item": "immersiveengineering:treated_wood_horizontal",
+      "emc": 16
+    },
+    {
+      "item": "immersiveengineering:wire_aluminum",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:wire_copper",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:wire_steel",
+      "emc": 416
+    },
+    {
+      "item": "immersiveengineering:wire_electrum",
+      "emc": 1280
+    },
+    {
+      "item": "immersiveengineering:seed",
+      "emc": 16
+    },
+	{
+      "item": "immersiveengineering:dust_sulfur",
+      "emc": 16
+    },
+	{
+      "item": "electrodynamics:dustsulfur",
+      "emc": 16
+    },
+    {
+      "item": "ars_nouveau:mana_bloom_crop",
+      "emc": 8208
+    },
+    {
+      "item": "ars_nouveau:mana_bloom",
+      "emc": 8208
+    },
+    {
+      "item": "ars_nouveau:mana_berry",
+      "emc": 24
+    },
+    {
+      "item": "silentgems:fluffy_puff_seeds",
+      "emc": 4
+    },
+    {
+      "item": "silentgems:fluffy_puff",
+      "emc": 6
+    },
+    {
+      "item": "silentgems:chaos_crystal",
+      "emc": 8192
+    },
+    {
+      "item": "silentgems:enriched_chaos_crystal",
+      "emc": 34560
+    },
+    {
+      "item": "silentgems:ender_crystal",
+      "emc": 9984
+    },
+    {
+      "item": "silentgems:ruby",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:garnet",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:topaz",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:amber",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:heliodor",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:peridot",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:green_sapphire",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:phosphophyllite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:aquamarine",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:sapphire",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:tanzanite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:amethyst",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:agate",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:morganite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:onyx",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:opal",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:carnelian",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:spinel",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:citrine",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:jasper",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:zircon",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:moldavite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:malachite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:turquoise",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:euclase",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:benitoite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:iolite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:alexandrite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:lepidolite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:ametrine",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:black_diamond",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:moonstone",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:pyrope",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:coral",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:sunstone",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:cats_eye",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:jade",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:chrysoprase",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:yellow_diamond",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:apatite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:fluorite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:kyanite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:sodalite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:ammolite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:kunzite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:rose_quartz",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:tektite",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:pearl",
+      "emc": 256
+    },
+    {
+      "item": "silentgems:corrupted_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "silentgems:ruby_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:garnet_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:topaz_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:amber_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:heliodor_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:peridot_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:green_sapphire_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:phosphophyllite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:aquamarine_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:sapphire_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:tanzanite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:amethyst_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:agate_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:morganite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:onyx_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:opal_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:carnelian_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:spinel_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:citrine_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:jasper_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:zircon_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:moldavite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:malachite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:turqoise_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:euclase_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:benitoite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:iolite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:alexandrite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:lepidolite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:ametrine_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:black_diamond_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:moonstone_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:pyrope_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:coral_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:sunstone_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:cats_eye_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:yellow_diamond_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:jade_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:chrysoprase_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:apatite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:fluorite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:kyanite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:sodalite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:ammolite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:kunzite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:rose_quartz_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:tektite_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "silentgems:pearl_glowrose",
+      "emc": 16
+    },
+    {
+      "item": "janoeo:ruby",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:sapphire",
+      "emc": 256
+    },
+    {
+      "item": "janoeo:amethyst",
+      "emc": 256
+    },
+    {
+      "item": "silentgear:crimson_iron_ingot",
+      "emc": 416
+    },
+    {
+      "item": "silentgear:bort",
+      "emc": 256
+    },
+    {
+      "item": "silentgear:sinew",
+      "emc": 32
+    },
+    {
+      "item": "silentgear:flax_fiber",
+      "emc": 24
+    },
+    {
+      "item": "silentgear:flax_seeds",
+      "emc": 24
+    },
+    {
+      "item": "silentgear:template_board",
+      "emc": 6
+    },
+    {
+      "item": "silents_mechanisms:compressed_iron_ingot",
+      "emc": 256
+    },
+    {
+      "item": "silents_mechanisms:bismuth_ingot",
+      "emc": 256
+    },
+    {
+      "item": "silents_mechanisms:bismuth_steel_ingot",
+      "emc": 1152
+    },
+    {
+      "item": "silents_mechanisms:brass_ingot",
+      "emc": 640
+    },
+    {
+      "item": "silents_mechanisms:bismuth_brass_ingot",
+      "emc": 768
+    },
+    {
+      "item": "silents_mechanisms:invar_ingot",
+      "emc": 768
+    },
+    {
+      "item": "silents_mechanisms:aluminum_steel_ingot",
+      "emc": 1152
+    },
+    {
+      "item": "silents_mechanisms:signalum_ingot",
+      "emc": 1536
+    },
+    {
+      "item": "silents_mechanisms:lumium_ingot",
+      "emc": 2816
+    },
+    {
+      "item": "silents_mechanisms:enderium_ingot",
+      "emc": 9728
+    },
+    {
+      "item": "quark:root_item",
+      "emc": 24
+    },
+    {
+      "item": "upgrade_aquatic:mulberry",
+      "emc": 24
+    },
+    {
+      "item": "biomesoplenty:nether_crystal",
+      "emc": 64
+    },
+    {
+      "item": "embellishcraft:slate_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "embellishcraft:gneiss_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "embellishcraft:basalt_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "embellishcraft:marble_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "embellishcraft:jade_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "embellishcraft:larvikite_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "botanicalmachinery:mana_emerald",
+      "emc": 16384
+    },
+    {
+      "item": "cyclic:gem_amber",
+      "emc": 2954
+    },
+    {
+      "item": "cyclic:gem_obsidian",
+      "emc": 3210
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot",
+      "emc": 26976
+    },
+    {
+      "item": "adchimneys:cobblestone_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:stone_bricks_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:cracked_stone_bricks_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:chiseled_stone_bricks_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:end_stone_bricks_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:glass_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:cyan_stained_glass_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:green_stained_glass_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:lime_stained_glass_chimney",
+      "emc": 1
+    },
+    {
+      "item": "adchimneys:smooth_stone_chimney",
+      "emc": 1
+    },
+    {
+      "item": "resourcefulbees:wax",
+      "emc": 16
+    },
+    {
+      "item": "theabyss:abyssloranitem",
+      "emc": 256
+    }
+  ]
 }

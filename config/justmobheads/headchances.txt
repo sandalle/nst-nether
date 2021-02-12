@@ -56,7 +56,7 @@
 "hoglin" : 0.1,
 "husk" : 0.03,
 "iron_golem" : 0.02,
-"jeb_sheep" : 0.2,
+"jeb_sheep" : 0.025,
 "jellie_cat" : 0.5,
 "killer_rabbit" : 0.1,
 "leatherworker" : 0.1,

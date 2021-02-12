@@ -55,7 +55,7 @@ motionActivatedLightSearchRadius = 5.0
 #Allow claiming unowned blocks?
 allowBlockClaim = false
 #Display a 'tip' message at spawn?
-sayThanksMessage = true
+sayThanksMessage = false
 #What volume should the alarm sound effect be played at?
 #Range: 0.0 ~ 1.7976931348623157E308
 alarmSoundVolume = 0.3

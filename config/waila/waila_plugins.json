@@ -48,6 +48,7 @@
     "chicken_egg": true,
     "horse_stat": true,
     "brewing_stand": true,
+    "misc_entity": true,
     "note_block": true,
     "inventory": true,
     "beehive": true,
