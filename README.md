@@ -297,4 +297,10 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Mods to be added once released for 1.16.5
 1. [Connected Textures Mod (CTM)](https://www.curseforge.com/minecraft/mc-mods/ctm)
+1. [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+1. [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+1. [Not Enough Wands](https://www.curseforge.com/minecraft/mc-mods/not-enough-wands)
+1. [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files)
+1. [Reliquary v1.3](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+1. [Space-Bosstools](https://www.curseforge.com/minecraft/mc-mods/space-bosstools) (pending [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate)) or [The Outer Space Mod](https://www.curseforge.com/minecraft/mc-mods/theouterspacemod)
 
