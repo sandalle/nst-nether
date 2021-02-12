@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "overrides": [
+    {
+      "action": "SWAP",
+      "recipe": {
+        "in": "minecraft:magma_cream:1",
+        "out": [
+          "minecraft:blaze_powder:1",
+          "minecraft:slime_ball:1"
+        ]
+      },
+      "update": {
+        "in": "minecraft:magma_cream:1",
+        "out": [
+          "minecraft:blaze_powder:1",
+          "minecraft:slime_ball:1"
+        ],
+        "xp": 35.0
+      }
+    }
+  ]
+}

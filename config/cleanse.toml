@@ -1,0 +1,4 @@
+#Time in ticks that determines the duration of the chat suppression after you enter a world
+#Range: > 1
+delay = 20
+
