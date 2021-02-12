@@ -24,11 +24,11 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Texture Packs
-[Botania v1.16.4 (128x](https://www.curseforge.com/minecraft/texture-packs/botania-v1-16-4-128x)
-[Dokucraft Light](https://www.curseforge.com/minecraft/texture-packs/dokucraft-light)
-[LB Photo Realism Reload!](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload)
-[Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
-[Winthor Medieval](https://www.curseforge.com/minecraft/texture-packs/winthor-medieval-texture-pack-v2-6-wip-mc-1-14)
+* [Botania v1.16.4 (128x](https://www.curseforge.com/minecraft/texture-packs/botania-v1-16-4-128x)
+* [Dokucraft Light](https://www.curseforge.com/minecraft/texture-packs/dokucraft-light)
+* [LB Photo Realism Reload!](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload)
+* [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
+* [Winthor Medieval](https://www.curseforge.com/minecraft/texture-packs/winthor-medieval-texture-pack-v2-6-wip-mc-1-14)
 
 
 # Mods
