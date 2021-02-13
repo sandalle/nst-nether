@@ -1749,6 +1749,10 @@
       "emc": 2048
     },
     {
+      "item": "mekanism:dust_iron",
+      "emc": 256
+    },
+    {
       "item": "mekanism:dust_diamond",
       "emc": 8192
     },
