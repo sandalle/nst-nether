@@ -37,10 +37,6 @@
       "emc": 32
     },
     {
-      "item": "mekanism:sawdust",
-      "emc": 32
-    },
-    {
       "item": "mysticalagriculture:soulstone_cobble",
       "emc": 1
     },
@@ -1161,10 +1157,6 @@
       "emc": 256
     },
     {
-      "item": "mekanism:hdpe_sheet",
-      "emc": 2048
-    },
-    {
       "item": "quark:frog_leg",
       "emc": 64
     },
@@ -1509,10 +1501,6 @@
       "emc": 1
     },
     {
-      "item": "mekanism:salt",
-      "emc": 96
-    },
-    {
       "item": "mekanism:ingot_osmium",
       "emc": 512
     },
@@ -1733,10 +1721,6 @@
       "emc": 384
     },
     {
-      "item": "mekanism:enriched_diamond",
-      "emc": 8192
-    },
-    {
       "item": "mekanism:dust_steel",
       "emc": 416
     },
@@ -1759,6 +1743,34 @@
     {
       "item": "mekanism:dust_refined_obsidian",
       "emc": 8199
+    },
+    {
+      "item": "mekanism:sawdust",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:bio_fuel",
+      "emc": 4
+    },
+    {
+      "item": "mekanism:substrate",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:hdpe_pellet",
+      "emc": 257
+    },
+    {
+      "item": "mekanism:hdpe_sheet",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:salt",
+      "emc": 96
+    },
+    {
+      "item": "mekanism:enriched_diamond",
+      "emc": 8192
     },
     {
       "item": "mekanism:enriched_carbon",
@@ -1915,6 +1927,10 @@
     {
       "item": "immersiveengineering:dust_sulfur",
       "emc": 16
+    },
+    {
+      "item": "immersiveengineering:electron_tube",
+      "emc": 150
     },
     {
       "item": "electrodynamics:dustsulfur",
