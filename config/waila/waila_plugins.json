@@ -48,7 +48,6 @@
     "chicken_egg": true,
     "horse_stat": true,
     "brewing_stand": true,
-    "misc_entity": true,
     "note_block": true,
     "inventory": true,
     "beehive": true,
@@ -69,6 +68,9 @@
     "mob_growth": true,
     "painting": true,
     "trapped_chest": true
+  },
+  "woot": {
+    "display_layout_items": true
   },
   "vampirism": {
     "show_player_info": true,

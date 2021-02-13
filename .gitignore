@@ -8,3 +8,5 @@ Session.vim
 
 # Files we don't want to track
 config/corail_backpack-client.toml
+config/Mekanism/tools-client.toml
+config/woot-client.toml

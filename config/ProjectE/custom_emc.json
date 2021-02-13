@@ -68,6 +68,18 @@
       "item": "industrialforegoing:plastic",
       "emc": 32
     },
+	{
+      "item": "industrialforegoing:machine_frame_simple",
+      "emc": 14498
+    },
+	{
+      "item": "industrialforegoing:machine_frame_advanced",
+      "emc": 88634
+    },
+	{
+      "item": "industrialforegoing:machine_frame_supreme",
+      "emc": 238154
+    },
     {
       "item": "vampirism:item_garlic",
       "emc": 96
@@ -1501,10 +1513,6 @@
       "emc": 1
     },
     {
-      "item": "mekanism:ingot_osmium",
-      "emc": 512
-    },
-    {
       "item": "janoeo:osmium_ingot",
       "emc": 512
     },
@@ -1541,10 +1549,6 @@
       "emc": 512
     },
     {
-      "item": "mekanism:ingot_lead",
-      "emc": 512
-    },
-    {
       "item": "electrodynamics:ingotlead",
       "emc": 512
     },
@@ -1569,10 +1573,6 @@
       "emc": 128
     },
     {
-      "item": "mekanism:ingot_copper",
-      "emc": 128
-    },
-    {
       "item": "electrodynamics:ingotcopper",
       "emc": 128
     },
@@ -1590,10 +1590,6 @@
     },
     {
       "item": "silents_mechanisms:tin_ingot",
-      "emc": 256
-    },
-    {
-      "item": "mekanism:ingot_tin",
       "emc": 256
     },
     {
@@ -1618,10 +1614,6 @@
     },
     {
       "item": "silents_mechanisms:uranium_ingot",
-      "emc": 4096
-    },
-    {
-      "item": "mekanism:ingot_uranium",
       "emc": 4096
     },
     {
@@ -1721,30 +1713,6 @@
       "emc": 384
     },
     {
-      "item": "mekanism:dust_steel",
-      "emc": 416
-    },
-    {
-      "item": "mekanism:dust_osmium",
-      "emc": 512
-    },
-    {
-      "item": "mekanism:dust_gold",
-      "emc": 2048
-    },
-    {
-      "item": "mekanism:dust_iron",
-      "emc": 256
-    },
-    {
-      "item": "mekanism:dust_diamond",
-      "emc": 8192
-    },
-    {
-      "item": "mekanism:dust_refined_obsidian",
-      "emc": 8199
-    },
-    {
       "item": "mekanism:sawdust",
       "emc": 32
     },
@@ -1757,80 +1725,16 @@
       "emc": 16
     },
     {
-      "item": "mekanism:hdpe_pellet",
-      "emc": 257
+      "item": "mekanism:pellet_polonium",
+      "emc": 4096
     },
     {
-      "item": "mekanism:hdpe_sheet",
-      "emc": 2048
+      "item": "mekanism:pellet_plutonium",
+      "emc": 4096
     },
     {
-      "item": "mekanism:salt",
-      "emc": 96
-    },
-    {
-      "item": "mekanism:enriched_diamond",
-      "emc": 8192
-    },
-    {
-      "item": "mekanism:enriched_carbon",
-      "emc": 128
-    },
-    {
-      "item": "mekanism:enriched_iron",
-      "emc": 384
-    },
-    {
-      "item": "mekanism:enriched_redstone",
-      "emc": 64
-    },
-    {
-      "item": "mekanism:enriched_refined_obsidian",
-      "emc": 8199
-    },
-    {
-      "item": "mekanism:enriched_gold",
-      "emc": 2048
-    },
-    {
-      "item": "mekanism:enriched_tin",
-      "emc": 256
-    },
-    {
-      "item": "mekanism:ingot_refined_obsidian",
-      "emc": 8711
-    },
-    {
-      "item": "mekanism:ingot_steel",
-      "emc": 416
-    },
-    {
-      "item": "mekanism:alloy_infused",
-      "emc": 320
-    },
-    {
-      "item": "mekanism:alloy_reinforced",
-      "emc": 16704
-    },
-    {
-      "item": "mekanism:alloy_atomic",
-      "emc": 49500
-    },
-    {
-      "item": "mekanism:basic_control_circuit",
-      "emc": 640
-    },
-    {
-      "item": "mekanism:advanced_control_circuit",
-      "emc": 1280
-    },
-    {
-      "item": "mekanism:elite_control_circuit",
-      "emc": 34688
-    },
-    {
-      "item": "mekanism:ultimate_control_circuit",
-      "emc": 133688
+      "item": "mekanism:pellet_antimatter",
+      "emc": 4096000
     },
     {
       "item": "mapperbase:raw_bitumen",
@@ -2432,6 +2336,10 @@
       "item": "silents_mechanisms:enderium_ingot",
       "emc": 9728
     },
+{
+      "item": "silents_mechanisms:plastic_pellets",
+      "emc": 8
+    },
     {
       "item": "quark:root_item",
       "emc": 24
@@ -2538,6 +2446,34 @@
     },
     {
       "item": "car:canola",
+      "emc": 64
+    },
+    {
+      "item": "woot:plate_die",
+      "emc": 65
+    },
+    {
+      "item": "woot:dye_die",
+      "emc": 256
+    },
+	{
+      "item": "woot:prism",
+      "emc": 1187
+    },
+    {
+      "item": "woot:ench_plate_1",
+      "emc": 358
+    },
+    {
+      "item": "woot:ench_plate_2",
+      "emc": 2150
+    },
+    {
+      "item": "woot:ench_plate_3",
+      "emc": 8294
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
       "emc": 64
     }
   ]

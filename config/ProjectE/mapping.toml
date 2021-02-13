@@ -43,3 +43,67 @@
 		#Fallback for default handling of recipes that extend ICraftingRecipe, AbstractCookingRecipe, SingleItemRecipe, or SmithingRecipe. This will catch modded extensions of the vanilla recipe classes, and if the VanillaRecipeTypes mapper is disabled, this mapper will still catch the vanilla recipes.
 		enabled = true
 
+	[CraftingMapper.MekItemStackToGas]
+		#Maps Mekanism item stack to gas recipes. (Gas conversion, Oxidizing)
+		enabled = true
+
+	[CraftingMapper.MekCombiner]
+		#Maps Mekanism combiner recipes.
+		enabled = true
+
+	[CraftingMapper.MekElectrolysis]
+		#Maps Mekanism electrolytic separator recipes.
+		enabled = true
+
+	[CraftingMapper.MekItemStackToInfuseType]
+		#Maps Mekanism item stack to infuse type conversion recipes.
+		enabled = true
+
+	[CraftingMapper.MekChemicalInfuser]
+		#Maps Mekanism chemical infuser recipes.
+		enabled = true
+
+	[CraftingMapper.MekRotary]
+		#Maps Mekanism rotary condensentrator recipes.
+		enabled = true
+
+	[CraftingMapper.MekGasToGas]
+		#Maps Mekanism activating and centrifuging recipes.
+		enabled = true
+
+	[CraftingMapper.MekDissolution]
+		#Maps Mekanism dissolution recipes.
+		enabled = true
+
+	[CraftingMapper.MekFluidSlurryToSlurry]
+		#Maps Mekanism washing recipes.
+		enabled = true
+
+	[CraftingMapper.MekMetallurgicInfuser]
+		#Maps Mekanism metallurgic infuser recipes.
+		enabled = true
+
+	[CraftingMapper.MekItemStackGasToItemStack]
+		#Maps Mekanism Machine recipes that go from item, gas to item. (Compressing, Purifying, Injecting)
+		enabled = true
+
+	[CraftingMapper.MekChemicalCrystallizer]
+		#Maps Mekanism crystallizing recipes.
+		enabled = true
+
+	[CraftingMapper.MekPressurizedReaction]
+		#Maps Mekanism pressurized reaction recipes.
+		enabled = true
+
+	[CraftingMapper.MekSawmill]
+		#Maps Mekanism sawmill recipes. (Disabled by default, due to causing various EMC values to be removed pertaining to charcoal/wood)
+		enabled = false
+
+	[CraftingMapper.MekItemStackToItemStack]
+		#Maps Mekanism Machine recipes that go from item to item. (Crushing, Enriching, Smelting)
+		enabled = true
+
+	[CraftingMapper.MekFluidToFluid]
+		#Maps Mekanism evaporating recipes.
+		enabled = true
+

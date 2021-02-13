@@ -23,8 +23,11 @@
 	allowModeScroll = true
 	#Set to false to prevent particle spam when loading multiblocks (notification message will display instead).
 	enableMultiblockFormationParticles = true
-	#Align HUD with left (if true) or right (if false)
+	#Align HUD (text) with left (if true) or right (if false)
 	alignHUDLeft = true
+	#Scale of the text displayed on the HUD.
+	#Range: 0.25 ~ 1.0
+	hudScale = 0.6
 	#Enable item information HUD during gameplay
 	enableHUD = true
 	#How far (in blocks) from the player radiation particles can spawn.
