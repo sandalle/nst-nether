@@ -68,15 +68,15 @@
       "item": "industrialforegoing:plastic",
       "emc": 32
     },
-	{
+    {
       "item": "industrialforegoing:machine_frame_simple",
       "emc": 14498
     },
-	{
+    {
       "item": "industrialforegoing:machine_frame_advanced",
       "emc": 88634
     },
-	{
+    {
       "item": "industrialforegoing:machine_frame_supreme",
       "emc": 238154
     },
@@ -2456,7 +2456,7 @@
       "item": "woot:dye_die",
       "emc": 256
     },
-	{
+    {
       "item": "woot:prism",
       "emc": 1187
     },
