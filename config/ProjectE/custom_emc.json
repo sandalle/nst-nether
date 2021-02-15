@@ -1149,12 +1149,32 @@
       "emc": 1
     },
     {
+      "item": "biomesoplenty:mud_ball",
+      "emc": 1
+    },
+    {
       "item": "biomesoplenty:mud",
       "emc": 1
     },
     {
       "item": "biomesoplenty:flesh",
       "emc": 1
+    },
+    {
+      "item": "biomesoplenty:orange_sand",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:black_sand",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:nether_crystal",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:toadstool",
+      "emc": 32
     },
     {
       "item": "biomesoplenty:toadstool_block",
@@ -1501,18 +1521,6 @@
       "emc": 2048
     },
     {
-      "item": "biomesoplenty:orange_sand",
-      "emc": 1
-    },
-    {
-      "item": "biomesoplenty:black_sand",
-      "emc": 1
-    },
-    {
-      "item": "biomesoplenty:mud_ball",
-      "emc": 1
-    },
-    {
       "item": "janoeo:osmium_ingot",
       "emc": 512
     },
@@ -1835,6 +1843,10 @@
     {
       "item": "immersiveengineering:electron_tube",
       "emc": 150
+    },
+    {
+      "item": "immersiveengineering:sawdust",
+      "emc": 32
     },
     {
       "item": "electrodynamics:dustsulfur",
@@ -2349,10 +2361,6 @@
       "emc": 24
     },
     {
-      "item": "biomesoplenty:nether_crystal",
-      "emc": 64
-    },
-    {
       "item": "embellishcraft:slate_cobblestone",
       "emc": 1
     },
@@ -2446,6 +2454,10 @@
     },
     {
       "item": "car:canola",
+      "emc": 64
+    },
+    {
+      "item": "car:canola_cake",
       "emc": 64
     },
     {
