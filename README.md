@@ -88,7 +88,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 1. [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 1. [Corail Adventure Spawners](https://www.curseforge.com/minecraft/mc-mods/corail-adventurer-spawners)
-1. [Corail Recycler](https://www.curseforge.com/minecraft/mc-mods/corail-recycler-mod)
 1. [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 1. [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 1. [Craftable Horse Armour & Saddle (CHA&S)](https://www.curseforge.com/minecraft/mc-mods/cha-s)

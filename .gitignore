@@ -22,7 +22,6 @@ config/chiselsandbits-client.toml
 config/computercraft-client.toml
 config/cookingforblockheads-client.toml
 config/corail_backpack-client.toml
-config/corail_recycler_ne-client.toml
 config/cosmeticarmorreworked-client.toml
 config/craftingtweaks-client.toml
 config/cucumber-client.toml
