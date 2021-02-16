@@ -12,6 +12,7 @@ config/adchimneys-client.toml
 config/adlods-client.toml
 config/aiotbotania-client.toml
 config/ambientsounds-client.json
+config/appleskin-client.toml
 config/biomesoplenty/client.toml
 config/bloodmagic-client.toml
 config/botania-client.toml

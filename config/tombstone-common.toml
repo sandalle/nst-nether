@@ -38,8 +38,6 @@
 	graves_bypass_griefing_rules = true
 	#Automatically equips any equipable items when respawning after a death [false/true|default:true]
 	auto_equip_on_death_respawn = true
-	#Allows player's graves to appear in water [false/true|default:true]
-	allow_grave_in_water = true
 	#Allows to fill an existing grave instead of creating a new one [false/true|default:true]
 	allow_to_fill_existing_grave = true
 
@@ -216,4 +214,6 @@
 	allow_curio_auto_equip = true
 	#Keeps the cosmetic armor when you die [false/true|default:true]
 	keep_cosmetic_armor = true
+	#Ensure the potion effects to stay on the player after returning from end conquered [false/true|default:true]
+	preserve_effects_on_return_end_conquered = true
 
