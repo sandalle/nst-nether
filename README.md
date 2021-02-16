@@ -74,6 +74,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Chem Lib](https://www.curseforge.com/minecraft/mc-mods/chemlib)
 1. [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 1. [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+1. [Chunk Animators (Fork)](https://www.curseforge.com/minecraft/mc-mods/chunkanimator)
 1. [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
 1. [Cleanse](https://www.curseforge.com/minecraft/mc-mods/cleanse)
 1. [Cloth Config API (Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)
