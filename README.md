@@ -50,7 +50,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Attribute Fix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 1. [Auto Ore Dictionary Converter](https://www.curseforge.com/minecraft/mc-mods/auto-ore-dictionary-converter)
 1. [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
-1. [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix) - Permission granted in TBD
+1. [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix) - Permission granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
 1. [Bedspreads (Forge)](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
 1. [Berry Good](https://www.curseforge.com/minecraft/mc-mods/berry-good)
@@ -58,7 +58,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
    * Use the following in server.properties (or selected via GUI) to create a world with:
    * `level-type="biomesoplenty"`
-1. [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft) - Permission granted in TBD
+1. [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft) - Permission granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 1. [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 1. [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
@@ -112,7 +112,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
 1. [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 1. [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
-1. [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics) Permission granted in TBD
+1. [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics) Permission granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [EmbellishCraft](https://www.curseforge.com/minecraft/mc-mods/embellishcraft)
 1. [EmbellishCraft: Biomes O'Plenty Addon](https://www.curseforge.com/minecraft/mc-mods/embellishcraft-biomes-oplenty-addon)
 1. [EMC Baubles](https://www.curseforge.com/minecraft/mc-mods/emc-baubles)
@@ -209,7 +209,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 1. [No Hostiles Around Campfire](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
 1. [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
-1. [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science) - Permision granted in TBD
+1. [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science) - Permision granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 1. [Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape) - May be removed, duplicates Cardboard boxes from Mekanism?
 1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
