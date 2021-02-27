@@ -77,6 +77,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 1. [Chunk Animator (Fork)](https://www.curseforge.com/minecraft/mc-mods/chunkanimator)
 1. [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
+1. [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 1. [Cleanse](https://www.curseforge.com/minecraft/mc-mods/cleanse)
 1. [Cloth Config API (Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)
 1. [Cobble for Days](https://www.curseforge.com/minecraft/mc-mods/cobblefordays)
@@ -151,7 +152,9 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook)
 1. [Gunpowder Lib](https://www.curseforge.com/minecraft/mc-mods/gunpowderlib)
 1. [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
+1. [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 1. [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+1. [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 1. [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 1. [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 1. [Inventory Totem](https://www.curseforge.com/minecraft/mc-mods/inventory-totem)
@@ -301,8 +304,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Mods to be added once released for 1.16.5
 1. [Connected Textures Mod (CTM)](https://www.curseforge.com/minecraft/mc-mods/ctm)
-1. [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
-1. [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 1. [Not Enough Wands](https://www.curseforge.com/minecraft/mc-mods/not-enough-wands)
 1. [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files)
 1. [Reliquary v1.3](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
