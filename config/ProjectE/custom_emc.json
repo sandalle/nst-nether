@@ -2348,7 +2348,7 @@
       "item": "silents_mechanisms:enderium_ingot",
       "emc": 9728
     },
-{
+    {
       "item": "silents_mechanisms:plastic_pellets",
       "emc": 8
     },
@@ -2487,6 +2487,10 @@
     {
       "item": "fluxnetworks:flux_dust",
       "emc": 64
+    },
+    {
+      "item": "immersivepetroleum:bitumen",
+      "emc": 16
     }
   ]
 }
