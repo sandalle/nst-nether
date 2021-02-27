@@ -5,13 +5,13 @@
 	#Blocks that a dragon can break, but won't spawn drops for. Use the format like "minecraft:stone" or "rats:block_of_cheese" 
 	noDropBreakBlocks = ["minecraft:stone", "minecraft:dirt", "minecraft:grass_block"]
 	#Whether to generate silver ore or not
-	"Generate Silver Ore" = true
+	"Generate Silver Ore" = false
 	#True if using blacklists, false if using whitelists for dragons and structure gen.
 	"Use Dimension Blacklist" = false
 	#Whitelist mob spawn (troll, hippogryph, etc) dimensions. Use the format like "minecraft:the_nether" or "rats:ratlantis" 
 	blacklistDimensions = ["minecraft:overworld"]
 	#Whether to generate copper ore or not
-	"Generate Copper Ore" = true
+	"Generate Copper Ore" = false
 	#Whether to generate sapphire ore or not
 	"Generate Sapphire Ore" = true
 	#Whether to generate amethyst ore or not
