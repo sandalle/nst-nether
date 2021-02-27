@@ -277,6 +277,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 1. [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
 1. [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
+1. [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
 1. [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 1. [Upgraded Netherite](https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite)
 1. [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)

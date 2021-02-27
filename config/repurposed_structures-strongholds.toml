@@ -20,13 +20,19 @@
 	#
 	# Controls whether loot chests spawn or not in the Stronghold.
 	lootChestsSH = true
+	#
+	#Makes vanilla Strongholds no longer spawn at all.
+	#Will not affect Repurposed Structures's own Stonebrick Stronghold.
+	#If BetterStrongholds mod is on, this config has no effect as is treated as false.
+	#
+	turnOffVanillaStrongholds = false
 
 	[Stronghold.Stonebrick]
 		#
 		#Add Stonebrick-styled Stronghold which replaces vanilla Strongholds in any
-		#vanilla non-Nether biome. If allowStonebrickStrongholdToVanillaBiomes is
-		#off, vanilla Strongholds will generate again but Repurposed Structures's
-		#Nether Strongholds will still be active.
+		#vanilla non-Nether biome. This option does not affect Nether Strongholds.
+		#If this is set to true and turnOffVanillaStrongholds is off, RS's Stonebrick
+		#Strongholds will still be added to vanilla biomes.
 		#
 		allowStonebrickStrongholdToVanillaBiomes = true
 		#

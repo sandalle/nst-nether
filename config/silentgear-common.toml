@@ -159,6 +159,14 @@
 		#Range: 0 ~ 1000
 		tryCount = 16
 
+	[world.wildFluffy]
+		#Number of patches of wild fluffy plants to attempt to place per chunk (some biomes only)
+		#Range: 0 ~ 100
+		patchCount = 1
+		#Block place attempts per wild fluffy plants cluster
+		#Range: 0 ~ 1000
+		tryCount = 16
+
 [compat]
 
 	[compat.mineAndSlash]

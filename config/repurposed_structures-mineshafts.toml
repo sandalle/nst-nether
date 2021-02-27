@@ -86,9 +86,21 @@
 		#
 		# Controls how often Mineshafts will spawn.
 		# 
-		# Add Nether themed Mineshafts to Nether biomes.0 for no Mineshafts and 1000 for max spawnrate.
+		# Add Nether themed Mineshafts to non-crimson and non-warped Nether biomes.0 for no Mineshafts and 1000 for max spawnrate.
 		#Range: 0 ~ 1000
 		netherMineshaftSpawnrate = 40
+		#
+		# Controls how often Mineshafts will spawn.
+		# 
+		# Add Crimson themed Mineshafts to Crimson Nether biomes.0 for no Mineshafts and 1000 for max spawnrate.
+		#Range: 0 ~ 1000
+		crimsonMineshaftSpawnrate = 40
+		#
+		# Controls how often Mineshafts will spawn.
+		# 
+		# Add Warped themed Mineshafts to Warped Nether biomes.0 for no Mineshafts and 1000 for max spawnrate.
+		#Range: 0 ~ 1000
+		warpedMineshaftSpawnrate = 40
 
 	[Mineshaft."Min height"]
 		#
@@ -157,6 +169,18 @@
 		#
 		#Range: 5 ~ 255
 		netherMineshaftMinHeight = 8
+		#
+		# Minimum Y height that this mineshaft can spawn at. Default is 8.
+		# Note: The mineshaft will spawn between min and max y height set in config.
+		#
+		#Range: 5 ~ 255
+		crimsonMineshaftMinHeight = 8
+		#
+		# Minimum Y height that this mineshaft can spawn at. Default is 8.
+		# Note: The mineshaft will spawn between min and max y height set in config.
+		#
+		#Range: 5 ~ 255
+		warpedMineshaftMinHeight = 8
 
 	[Mineshaft."Max height"]
 		#
@@ -225,6 +249,18 @@
 		# Setting this to below min height config will make mineshaft spawn only at min height.
 		#Range: 5 ~ 255
 		netherMineshaftMaxHeight = 13
+		#
+		# Minimum Y height that this mineshaft can spawn at. Default is 13.
+		# Note: The mineshaft will spawn between min and max y height set in config.
+		# Setting this to below min height config will make mineshaft spawn only at min height.
+		#Range: 5 ~ 255
+		crimsonMineshaftMaxHeight = 13
+		#
+		# Minimum Y height that this mineshaft can spawn at. Default is 13.
+		# Note: The mineshaft will spawn between min and max y height set in config.
+		# Setting this to below min height config will make mineshaft spawn only at min height.
+		#Range: 5 ~ 255
+		warpedMineshaftMaxHeight = 13
 
 	[Mineshaft.Misc]
 		#
