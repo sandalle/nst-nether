@@ -2495,6 +2495,106 @@
     {
       "item": "mekanism:dust_lithium",
       "emc": 8192
+    },
+    {
+      "item": "industrialforegoing:latex_bucket",
+      "emc": 800
+    },
+    {
+      "item": "iceandfire:dragonsteel_fire_ingot",
+      "emc": 512
+    },
+    {
+      "item": "iceandfire:dragonsteel_ice_ingot",
+      "emc": 512
+    },
+    {
+      "item": "iceandfire:dragonsteel_lightning_ingot",
+      "emc": 512
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber",
+      "emc": 4
+    },
+    {
+      "item": "iceandfire:witherbone",
+      "emc": 57344
+    },
+    {
+      "item": "iceandfire:dragonbone",
+      "emc": 288
+    },
+    {
+      "item": "iceandfire:hippogryph_talon",
+      "emc": 288
+    },
+    {
+      "item": "iceandfire:dragonscales_amythest",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_black",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_blue",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_bronze",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_copper",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_gray",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_white",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_silver",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_red",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_green",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:dragonscales_electric",
+      "emc": 320
+    },
+    {
+      "item": "iceandfire:fire_lily",
+      "emc": 128
+    },
+    {
+      "item": "iceandfire:lightning_lily",
+      "emc": 128
+    },
+    {
+      "item": "iceandfire:frost_lily",
+      "emc": 128
+    },
+    {
+      "item": "iceandfire:dragonscales_sapphire",
+      "emc": 320
+    },
+    {
+      "item": "industrialforegoing:dryrubber",
+      "emc": 32
+    },
+    {
+      "item": "industrialforegoing:pink_slime",
+      "emc": 32
     }
   ]
 }
