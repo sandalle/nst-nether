@@ -2595,6 +2595,10 @@
     {
       "item": "industrialforegoing:pink_slime",
       "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:dye_essence",
+      "emc": 6
     }
   ]
 }
