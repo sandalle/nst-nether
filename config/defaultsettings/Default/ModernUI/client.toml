@@ -47,8 +47,7 @@
 	#The mipmap level for font textures.
 	#Range: 0 ~ 4
 	mipmapLevel = 4
-	#The default font size for texts with no size specified. (Deprecated, to be removed)
-	#The font size feature is provided by Modern UI, and other mod's are achieved by matrix transformation.
+	#The default font size for texts with no size specified. (deprecated, to be removed)
 	#Range: 12 ~ 20
 	defaultFontSize = 16
 

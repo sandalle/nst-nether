@@ -3,10 +3,6 @@
 [server]
 
 	[server.difficulty]
-		#The Tome of Knowledge can be crafted.
-		craftableTome = false
-		#Require full omega klein stars in the tome of knowledge and gem armor recipes. This is the same behavior that EE2 had.
-		fullKleinStars = false
 		#Set to false to disable Gem Armor offensive abilities (helmet zap and chestplate explosion)
 		offensiveAbilities = false
 		#Amount of damage Katar 'C' key deals

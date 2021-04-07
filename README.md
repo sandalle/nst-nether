@@ -20,13 +20,12 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.16.5 - 36.0.21](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.5.html)
+[1.16.5-36.1.4](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.5.html)
 
 
 # Texture Packs
 * [Botania v1.16.4 (128x](https://www.curseforge.com/minecraft/texture-packs/botania-v1-16-4-128x)
 * [Dokucraft Light](https://www.curseforge.com/minecraft/texture-packs/dokucraft-light)
-* [LB Photo Realism Reload!](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload)
 * [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
 * [Winthor Medieval](https://www.curseforge.com/minecraft/texture-packs/winthor-medieval-texture-pack-v2-6-wip-mc-1-14)
 
@@ -108,7 +107,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Default Settings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
 1. [Despawning Eggs Hatch](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
 1. [Diablo Lib](https://www.curseforge.com/minecraft/mc-mods/diabololib)
-1. [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) - May be removed, might duplicate Quark's function
 1. [Drawers Tooltip](https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip)
 1. ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
 1. [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
@@ -207,6 +205,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Name Tag Tweaks](https://www.curseforge.com/minecraft/mc-mods/name-tag-tweaks)
 1. [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 1. [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
+1. [NeptuneFX](https://www.curseforge.com/minecraft/mc-mods/neptunefx) - Required by DefaultSettings
 1. [Netherite Horse Armor Mod](https://www.curseforge.com/minecraft/mc-mods/netherite-horse-armor-mod)
 1. [Netherite Plus Mod](https://www.curseforge.com/minecraft/mc-mods/netherite-plus-mod)
 1. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
@@ -248,10 +247,10 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 1. [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 1. [ShetiPhianCore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
-1. [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
-1. [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
-1. [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
-1. [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms)
+1. [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) - May be removed, to be replaced by Tinker's Construct
+1. [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) - May be removed, to be replaced by Tinker's Construct
+1. [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) - May be removed, to be replaced by Tinker's Construct
+1. [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms) - May be removed, to be replaced by Tinker's Construct
 1. [Simple Sponge](https://www.curseforge.com/minecraft/mc-mods/simple-sponge)
 1. [Sit](https://www.curseforge.com/minecraft/mc-mods/sit)
 1. [Smooth Boot (Forge)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)

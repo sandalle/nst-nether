@@ -124,25 +124,23 @@
 		#Range: > 0
 		bronzeShieldDurability = 1568
 		#Attack damage modifier of bronze swords.
-		bronzeSwordDamage = 3
+		bronzeSwordDamage = 3.0
 		#Attack speed of bronze swords.
 		bronzeSwordAtkSpeed = -2.4000000953674316
 		#Attack damage modifier of bronze shovels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		bronzeShovelDamage = 1.5
 		#Attack speed of bronze shovels.
 		bronzeShovelAtkSpeed = -3.0
 		#Attack damage modifier of bronze axes.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		bronzeAxeDamage = 2.0
 		#Attack speed of bronze axes.
 		bronzeAxeAtkSpeed = -3.0999999046325684
 		#Attack damage modifier of bronze pickaxes.
-		bronzePickaxeDamage = 1
+		bronzePickaxeDamage = 1.0
 		#Attack speed of bronze pickaxes.
 		bronzePickaxeAtkSpeed = -2.799999952316284
 		#Attack damage modifier of bronze hoes.
-		bronzeHoeDamage = -6
+		bronzeHoeDamage = -6.0
 		#Attack speed of bronze hoes.
 		bronzeHoeAtkSpeed = 3.0
 		#Maximum durability of bronze tools.
@@ -154,7 +152,6 @@
 		#Range: > 0
 		bronzePaxelHarvestLevel = 3
 		#Attack damage modifier of bronze paxels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		bronzePaxelDamage = 8.0
 		#Attack speed of bronze paxels.
 		bronzePaxelAtkSpeed = -2.4000000953674316
@@ -212,25 +209,23 @@
 		#Range: > 0
 		lapis_lazuliShieldDurability = 582
 		#Attack damage modifier of lapis_lazuli swords.
-		lapis_lazuliSwordDamage = 3
+		lapis_lazuliSwordDamage = 3.0
 		#Attack speed of lapis_lazuli swords.
 		lapis_lazuliSwordAtkSpeed = -2.4000000953674316
 		#Attack damage modifier of lapis_lazuli shovels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		lapis_lazuliShovelDamage = 1.5
 		#Attack speed of lapis_lazuli shovels.
 		lapis_lazuliShovelAtkSpeed = -3.0
 		#Attack damage modifier of lapis_lazuli axes.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		lapis_lazuliAxeDamage = 6.0
 		#Attack speed of lapis_lazuli axes.
 		lapis_lazuliAxeAtkSpeed = -3.0999999046325684
 		#Attack damage modifier of lapis_lazuli pickaxes.
-		lapis_lazuliPickaxeDamage = 1
+		lapis_lazuliPickaxeDamage = 1.0
 		#Attack speed of lapis_lazuli pickaxes.
 		lapis_lazuliPickaxeAtkSpeed = -2.799999952316284
 		#Attack damage modifier of lapis_lazuli hoes.
-		lapis_lazuliHoeDamage = -2
+		lapis_lazuliHoeDamage = -2.0
 		#Attack speed of lapis_lazuli hoes.
 		lapis_lazuliHoeAtkSpeed = -1.0
 		#Maximum durability of lapis_lazuli tools.
@@ -242,7 +237,6 @@
 		#Range: > 0
 		lapis_lazuliPaxelHarvestLevel = 2
 		#Attack damage modifier of lapis_lazuli paxels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		lapis_lazuliPaxelDamage = 6.0
 		#Attack speed of lapis_lazuli paxels.
 		lapis_lazuliPaxelAtkSpeed = -2.4000000953674316
@@ -300,25 +294,23 @@
 		#Range: > 0
 		osmiumShieldDurability = 1344
 		#Attack damage modifier of osmium swords.
-		osmiumSwordDamage = 3
+		osmiumSwordDamage = 3.0
 		#Attack speed of osmium swords.
 		osmiumSwordAtkSpeed = -2.4000000953674316
 		#Attack damage modifier of osmium shovels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		osmiumShovelDamage = 1.5
 		#Attack speed of osmium shovels.
 		osmiumShovelAtkSpeed = -3.0
 		#Attack damage modifier of osmium axes.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		osmiumAxeDamage = 4.0
 		#Attack speed of osmium axes.
 		osmiumAxeAtkSpeed = -3.0
 		#Attack damage modifier of osmium pickaxes.
-		osmiumPickaxeDamage = 1
+		osmiumPickaxeDamage = 1.0
 		#Attack speed of osmium pickaxes.
 		osmiumPickaxeAtkSpeed = -2.799999952316284
 		#Attack damage modifier of osmium hoes.
-		osmiumHoeDamage = -4
+		osmiumHoeDamage = -4.0
 		#Attack speed of osmium hoes.
 		osmiumHoeAtkSpeed = 1.0
 		#Maximum durability of osmium tools.
@@ -330,7 +322,6 @@
 		#Range: > 0
 		osmiumPaxelHarvestLevel = 3
 		#Attack damage modifier of osmium paxels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		osmiumPaxelDamage = 5.0
 		#Attack speed of osmium paxels.
 		osmiumPaxelAtkSpeed = -2.4000000953674316
@@ -388,25 +379,23 @@
 		#Range: > 0
 		refined_glowstoneShieldDurability = 806
 		#Attack damage modifier of refined_glowstone swords.
-		refined_glowstoneSwordDamage = 3
+		refined_glowstoneSwordDamage = 3.0
 		#Attack speed of refined_glowstone swords.
 		refined_glowstoneSwordAtkSpeed = -2.4000000953674316
 		#Attack damage modifier of refined_glowstone shovels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		refined_glowstoneShovelDamage = 1.5
 		#Attack speed of refined_glowstone shovels.
 		refined_glowstoneShovelAtkSpeed = -3.0
 		#Attack damage modifier of refined_glowstone axes.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		refined_glowstoneAxeDamage = 3.0
 		#Attack speed of refined_glowstone axes.
 		refined_glowstoneAxeAtkSpeed = -3.0999999046325684
 		#Attack damage modifier of refined_glowstone pickaxes.
-		refined_glowstonePickaxeDamage = 1
+		refined_glowstonePickaxeDamage = 1.0
 		#Attack speed of refined_glowstone pickaxes.
 		refined_glowstonePickaxeAtkSpeed = -2.799999952316284
 		#Attack damage modifier of refined_glowstone hoes.
-		refined_glowstoneHoeDamage = -5
+		refined_glowstoneHoeDamage = -5.0
 		#Attack speed of refined_glowstone hoes.
 		refined_glowstoneHoeAtkSpeed = 2.0
 		#Maximum durability of refined_glowstone tools.
@@ -418,7 +407,6 @@
 		#Range: > 0
 		refined_glowstonePaxelHarvestLevel = 3
 		#Attack damage modifier of refined_glowstone paxels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		refined_glowstonePaxelDamage = 4.0
 		#Attack speed of refined_glowstone paxels.
 		refined_glowstonePaxelAtkSpeed = -2.4000000953674316
@@ -476,25 +464,23 @@
 		#Range: > 0
 		refined_obsidianShieldDurability = 2240
 		#Attack damage modifier of refined_obsidian swords.
-		refined_obsidianSwordDamage = 3
+		refined_obsidianSwordDamage = 3.0
 		#Attack speed of refined_obsidian swords.
 		refined_obsidianSwordAtkSpeed = -2.4000000953674316
 		#Attack damage modifier of refined_obsidian shovels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		refined_obsidianShovelDamage = 1.5
 		#Attack speed of refined_obsidian shovels.
 		refined_obsidianShovelAtkSpeed = -3.0
 		#Attack damage modifier of refined_obsidian axes.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		refined_obsidianAxeDamage = 2.0
 		#Attack speed of refined_obsidian axes.
 		refined_obsidianAxeAtkSpeed = -2.0
 		#Attack damage modifier of refined_obsidian pickaxes.
-		refined_obsidianPickaxeDamage = 1
+		refined_obsidianPickaxeDamage = 1.0
 		#Attack speed of refined_obsidian pickaxes.
 		refined_obsidianPickaxeAtkSpeed = -2.799999952316284
 		#Attack damage modifier of refined_obsidian hoes.
-		refined_obsidianHoeDamage = -10
+		refined_obsidianHoeDamage = -10.0
 		#Attack speed of refined_obsidian hoes.
 		refined_obsidianHoeAtkSpeed = 7.0
 		#Maximum durability of refined_obsidian tools.
@@ -506,7 +492,6 @@
 		#Range: > 0
 		refined_obsidianPaxelHarvestLevel = 3
 		#Attack damage modifier of refined_obsidian paxels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		refined_obsidianPaxelDamage = 4.0
 		#Attack speed of refined_obsidian paxels.
 		refined_obsidianPaxelAtkSpeed = -2.4000000953674316
@@ -564,25 +549,23 @@
 		#Range: > 0
 		steelShieldDurability = 1792
 		#Attack damage modifier of steel swords.
-		steelSwordDamage = 3
+		steelSwordDamage = 3.0
 		#Attack speed of steel swords.
 		steelSwordAtkSpeed = -2.4000000953674316
 		#Attack damage modifier of steel shovels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		steelShovelDamage = 1.5
 		#Attack speed of steel shovels.
 		steelShovelAtkSpeed = -3.0
 		#Attack damage modifier of steel axes.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		steelAxeDamage = 4.0
 		#Attack speed of steel axes.
 		steelAxeAtkSpeed = -3.0
 		#Attack damage modifier of steel pickaxes.
-		steelPickaxeDamage = 1
+		steelPickaxeDamage = 1.0
 		#Attack speed of steel pickaxes.
 		steelPickaxeAtkSpeed = -2.799999952316284
 		#Attack damage modifier of steel hoes.
-		steelHoeDamage = -4
+		steelHoeDamage = -4.0
 		#Attack speed of steel hoes.
 		steelHoeAtkSpeed = 1.0
 		#Maximum durability of steel tools.
@@ -594,7 +577,6 @@
 		#Range: > 0
 		steelPaxelHarvestLevel = 3
 		#Attack damage modifier of steel paxels.
-		#Range: 0.0 ~ 3.4028234663852886E38
 		steelPaxelDamage = 8.0
 		#Attack speed of steel paxels.
 		steelPaxelAtkSpeed = -2.4000000953674316

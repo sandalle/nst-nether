@@ -19,6 +19,9 @@
 	chance_mob_on_grave_recovery = 0
 	#Enables PvP mode, which allows players to open graves of players they kill [false/true|default:false]
 	pvp_mode = false
+	#Percent of stolen experience by killing a player when PvP mode is enabled [0..100|default:30]
+	#Range: 0 ~ 100
+	pvp_stolen_xp = 30
 	#Knowledge of Death loss why dying [0..500|default:0]
 	#Range: 0 ~ 500
 	knowledge_loss = 0
@@ -163,7 +166,7 @@
 	nerf_plague_bringer = true
 	#Maximum duration of stolen effects in minutes [1..MAX|default:60]
 	#Range: > 1
-	max_duration_magic_siphon = 1440
+	max_duration_magic_siphon = 60
 	#Duration of applied effects in seconds [1..MAX|default:10]
 	#Range: > 1
 	duration_plague_bringer = 10
@@ -207,6 +210,8 @@
 	chance_grave_dust = 100
 	#Defines the allowed loottables having a chance to contain a magic item from Tombstone
 	treasure_loot_table = ["minecraft:chests/end_city_treasure", "minecraft:chests/abandoned_mineshaft", "minecraft:chests/nether_bridge", "minecraft:chests/stronghold_library", "minecraft:chests/desert_pyramid", "minecraft:chests/jungle_temple", "minecraft:chests/igloo_chest", "minecraft:chests/woodland_mansion"]
+	#The magic items from Tombstone can only be found as creature loot if the player is the killer [false/true|default:true]
+	drop_only_on_player_kill = true
 
 #Allows to enable some features related to others mods
 [compatibility]

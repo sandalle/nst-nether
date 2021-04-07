@@ -3,9 +3,8 @@
 	#
 	# Add the ID/resource location of the biome you don't want
 	# RS's shipwrecks to spawn in. Separate each ID with a comma ,
-	#
-	#Example: "minecraft:ice_spikes,awesome_mod:awesome_biome"
-	blacklistedShipwreckBiomes = ""
+	#   Example: "minecraft:ice_spikes,awesome_mod:awesome_biome"
+	blacklistedShipwreckBiomes = " "
 	#
 	# Add End Shipwreck to modded End biomes.
 	addEndShipwreckToModdedBiomes = true
@@ -13,7 +12,7 @@
 	# How rare are End Shipwreck in End Highlands biomes.
 	# 1 for spawning in most chunks and 1001 for none.
 	#Range: 1 ~ 1001
-	endShipwreckMaxChunkDistance = 15
+	endShipwreckMaxChunkDistance = 24
 	#
 	# Add Nether Bricks Shipwreck to modded non-warped or non-crimson Nether biomes.
 	addNetherBricksShipwreckToModdedBiomes = true

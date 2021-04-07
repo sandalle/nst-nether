@@ -1,5 +1,6 @@
 {
   "uploadCrashLogTo": "GIST",
   "disableReturnToMainMenu": false,
-  "deobfuscateStackTrace": true
+  "deobfuscateStackTrace": true,
+  "debugModIdentification": false
 }

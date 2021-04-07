@@ -20,6 +20,7 @@ config/botania-client.toml
 config/botanicalmachinery-client.toml
 config/botanypots-client.toml
 config/car-client.toml
+config/chancecubes/custom_rewards/CustomSounds-Resourcepack.zip
 config/chiselsandbits-client.toml
 config/computercraft-client.toml
 config/cookingforblockheads-client.toml
@@ -44,6 +45,9 @@ config/forge-client.toml
 config/forgeendertech-client.toml
 config/fpsreducer/fpsreducer-client.toml
 config/gbook-client.toml
+config/guiclock-common.toml
+config/guicompass-common.toml
+config/guifollowers-common.toml
 config/immersiveengineering-client.toml
 config/inventoryhud-client.toml
 config/ironjetpacks-client.toml
@@ -84,3 +88,6 @@ config/valhelsia_structures-client.toml
 config/vampirism-client.toml
 config/waystones-client.toml
 config/woot-client.toml
+config/xaerominimap.txt
+config/xaeropatreon.txt
+config/xaeroworldmap.txt

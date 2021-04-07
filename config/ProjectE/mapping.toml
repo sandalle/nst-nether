@@ -31,18 +31,6 @@
 
 [CraftingMapper]
 
-	[CraftingMapper.Smithing]
-		#Maps smithing recipes.
-		enabled = true
-
-	[CraftingMapper.VanillaRecipeTypes]
-		#Maps the different vanilla recipe types.
-		enabled = true
-
-	[CraftingMapper.FallbackRecipeType]
-		#Fallback for default handling of recipes that extend ICraftingRecipe, AbstractCookingRecipe, SingleItemRecipe, or SmithingRecipe. This will catch modded extensions of the vanilla recipe classes, and if the VanillaRecipeTypes mapper is disabled, this mapper will still catch the vanilla recipes.
-		enabled = true
-
 	[CraftingMapper.MekItemStackToGas]
 		#Maps Mekanism item stack to gas recipes. (Gas conversion, Oxidizing)
 		enabled = true
@@ -105,5 +93,17 @@
 
 	[CraftingMapper.MekFluidToFluid]
 		#Maps Mekanism evaporating recipes.
+		enabled = true
+
+	[CraftingMapper.Smithing]
+		#Maps smithing recipes.
+		enabled = true
+
+	[CraftingMapper.VanillaRecipeTypes]
+		#Maps the different vanilla recipe types.
+		enabled = true
+
+	[CraftingMapper.FallbackRecipeType]
+		#Fallback for default handling of recipes that extend ICraftingRecipe, AbstractCookingRecipe, SingleItemRecipe, or SmithingRecipe. This will catch modded extensions of the vanilla recipe classes, and if the VanillaRecipeTypes mapper is disabled, this mapper will still catch the vanilla recipes.
 		enabled = true
 

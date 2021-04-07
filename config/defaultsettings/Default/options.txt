@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["inmemory:jaopca","vanilla","mod_resources","magipsi","resourcefulbees","file/Updated_Engineering_v1.2.zip","file/1.16.4-Dokucraft-TSC-Light.zip","file/WinthorMedieval_1.16_v5.8.zip","file/Botania-128x-1.16-v0.4.zip"]
+resourcePacks:["inmemory:jaopca","vanilla","mod_resources","resourcefulbees","file/Winthor_Medieval_1.16_v6.5.zip","magipsi","file/Updated_Engineering_v1.3.zip","file/Botania-128x-1.16-v0.5.zip"]
 incompatibleResourcePacks:["inmemory:jaopca"]
 lastServer:
 lang:en_us
