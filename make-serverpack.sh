@@ -11,12 +11,12 @@ fi &&
 archiveList="asm/ \
 	config.sh \
 	config/ \
+	defaultconfigs/ \
 	forge*.jar \
 	libraries/ \
 	minecraft_server*.jar \
 	modpack/ \
 	mods/ \
-	scripts/ \
 	server.properties.template \
 	start.sh"
 
