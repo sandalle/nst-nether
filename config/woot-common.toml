@@ -41,6 +41,9 @@
 		#Max health for a tier 5 mob
 		#Range: > 5
 		t5MaxHealth = 2147483647
+		#Exotic drop chance
+		#Range: 0.0 ~ 100.0
+		exotic = 15.0
 
 	[factory.base]
 		#Number of mobs to spawn
@@ -220,6 +223,17 @@
 			#Range: 0 ~ 1000
 			l3LaserAmount = 140
 
+		[factory.perks.flayed]
+			#Percentage of mob health for flayed 1 perks
+			#Range: 0 ~ 1000
+			l1FlayedAmount = 90
+			#Percentage of mob health for flayed 2 perks
+			#Range: 0 ~ 1000
+			l2FlayedAmount = 100
+			#Percentage of mob health for flayed 3 perks
+			#Range: 0 ~ 1000
+			l3FlayedAmount = 110
+
 		[factory.perks.xp]
 			#Percentage generate of XP for xp 1 perks
 			#Range: 0 ~ 1000
@@ -244,7 +258,7 @@
 	energyRxPerTick = 100
 	#Energy used per tick (RF)
 	#Range: > 0
-	energyUsePerTick = 20
+	energyUsePerTick = 40
 
 #Settings for the convertor
 [fluid_convertor]
@@ -262,7 +276,7 @@
 	energyRxPerTick = 100
 	#Energy used per tick (RF)
 	#Range: > 0
-	energyUsePerTick = 20
+	energyUsePerTick = 40
 
 #Settings for the loot simulation
 [simulation]
@@ -297,7 +311,7 @@
 		energyRxPerTick = 100
 		#Energy used per tick (RF)
 		#Range: > 0
-		energyUsePerTick = 20
+		energyUsePerTick = 40
 
 	[squeezer.enchant]
 		#Tank capacity (mb)
@@ -311,7 +325,7 @@
 		energyRxPerTick = 100
 		#Energy used per tick (RF)
 		#Range: > 0
-		energyUsePerTick = 20
+		energyUsePerTick = 40
 		#Amount of fluid for a level I enchantment (in mb)
 		#Range: > 0
 		enchantAmountLevel1 = 500

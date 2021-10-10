@@ -25,7 +25,7 @@
 	#List of materials that should be crystals.
 	crystal = []
 	#List of materials that should be dusts.
-	dust = ["glowstone", "redstone"]
+	dust = ["glowstone", "redstone", "dilithium"]
 
 #Configurations related to item selection.
 [itemSelection]

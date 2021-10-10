@@ -9,7 +9,7 @@
 	#Should items of this material have the enchanted glow.
 	hasEffect = false
 	#The model type of the material.
-	modelType = "metallic"
+	modelType = "crystal"
 
 [mekanism]
 	#The base to use in Mekanism's Combiner to recreate ores.

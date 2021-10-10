@@ -1529,10 +1529,6 @@
       "emc": 96
     },
     {
-      "item": "silents_mechanisms:silver_ingot",
-      "emc": 512
-    },
-    {
       "item": "electrodynamics:ingotsilver",
       "emc": 512
     },
@@ -1545,15 +1541,7 @@
       "emc": 512
     },
     {
-      "item": "silentgems:silver_ingot",
-      "emc": 512
-    },
-    {
       "item": "chemlib:ingot_silver",
-      "emc": 512
-    },
-    {
-      "item": "silents_mechanisms:lead_ingot",
       "emc": 512
     },
     {
@@ -1571,10 +1559,6 @@
     {
       "item": "chemlib:ingot_lead",
       "emc": 512
-    },
-    {
-      "item": "silents_mechanisms:copper_ingot",
-      "emc": 128
     },
     {
       "item": "tmechworks:copper_ingot",
@@ -1597,10 +1581,6 @@
       "emc": 128
     },
     {
-      "item": "silents_mechanisms:tin_ingot",
-      "emc": 256
-    },
-    {
       "item": "electrodynamics:ingottin",
       "emc": 256
     },
@@ -1613,15 +1593,7 @@
       "emc": 256
     },
     {
-      "item": "silents_mechanisms:platinum_ingot",
-      "emc": 4096
-    },
-    {
       "item": "chemlib:ingot_platinum",
-      "emc": 4096
-    },
-    {
-      "item": "silents_mechanisms:uranium_ingot",
       "emc": 4096
     },
     {
@@ -1647,10 +1619,6 @@
     {
       "item": "chemlib:ingot_uranium",
       "emc": 4096
-    },
-    {
-      "item": "silents_mechanisms:zinc_ingot",
-      "emc": 256
     },
     {
       "item": "janoeo:zinc_ingot",
@@ -1865,414 +1833,6 @@
       "emc": 24
     },
     {
-      "item": "silentgems:fluffy_puff_seeds",
-      "emc": 4
-    },
-    {
-      "item": "silentgems:fluffy_puff",
-      "emc": 6
-    },
-    {
-      "item": "silentgems:chaos_crystal",
-      "emc": 8192
-    },
-    {
-      "item": "silentgems:enriched_chaos_crystal",
-      "emc": 34560
-    },
-    {
-      "item": "silentgems:ender_crystal",
-      "emc": 9984
-    },
-    {
-      "item": "silentgems:ruby",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:garnet",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:topaz",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:amber",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:heliodor",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:peridot",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:green_sapphire",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:phosphophyllite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:aquamarine",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:sapphire",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:tanzanite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:amethyst",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:agate",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:morganite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:onyx",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:opal",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:carnelian",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:spinel",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:citrine",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:jasper",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:zircon",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:moldavite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:malachite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:turquoise",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:euclase",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:benitoite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:iolite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:alexandrite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:lepidolite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:ametrine",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:black_diamond",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:moonstone",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:pyrope",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:coral",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:sunstone",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:cats_eye",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:jade",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:chrysoprase",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:yellow_diamond",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:apatite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:fluorite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:kyanite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:sodalite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:ammolite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:kunzite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:rose_quartz",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:tektite",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:pearl",
-      "emc": 256
-    },
-    {
-      "item": "silentgems:corrupted_slime_ball",
-      "emc": 32
-    },
-    {
-      "item": "silentgems:ruby_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:garnet_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:topaz_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:amber_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:heliodor_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:peridot_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:green_sapphire_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:phosphophyllite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:aquamarine_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:sapphire_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:tanzanite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:amethyst_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:agate_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:morganite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:onyx_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:opal_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:carnelian_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:spinel_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:citrine_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:jasper_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:zircon_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:moldavite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:malachite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:turqoise_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:euclase_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:benitoite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:iolite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:alexandrite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:lepidolite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:ametrine_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:black_diamond_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:moonstone_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:pyrope_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:coral_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:sunstone_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:cats_eye_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:yellow_diamond_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:jade_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:chrysoprase_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:apatite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:fluorite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:kyanite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:sodalite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:ammolite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:kunzite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:rose_quartz_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:tektite_glowrose",
-      "emc": 16
-    },
-    {
-      "item": "silentgems:pearl_glowrose",
-      "emc": 16
-    },
-    {
       "item": "janoeo:ruby",
       "emc": 256
     },
@@ -2283,74 +1843,6 @@
     {
       "item": "janoeo:amethyst",
       "emc": 256
-    },
-    {
-      "item": "silentgear:crimson_iron_ingot",
-      "emc": 416
-    },
-    {
-      "item": "silentgear:bort",
-      "emc": 256
-    },
-    {
-      "item": "silentgear:sinew",
-      "emc": 32
-    },
-    {
-      "item": "silentgear:flax_fiber",
-      "emc": 24
-    },
-    {
-      "item": "silentgear:flax_seeds",
-      "emc": 24
-    },
-    {
-      "item": "silentgear:template_board",
-      "emc": 6
-    },
-    {
-      "item": "silents_mechanisms:compressed_iron_ingot",
-      "emc": 256
-    },
-    {
-      "item": "silents_mechanisms:bismuth_ingot",
-      "emc": 256
-    },
-    {
-      "item": "silents_mechanisms:bismuth_steel_ingot",
-      "emc": 1152
-    },
-    {
-      "item": "silents_mechanisms:brass_ingot",
-      "emc": 640
-    },
-    {
-      "item": "silents_mechanisms:bismuth_brass_ingot",
-      "emc": 768
-    },
-    {
-      "item": "silents_mechanisms:invar_ingot",
-      "emc": 768
-    },
-    {
-      "item": "silents_mechanisms:aluminum_steel_ingot",
-      "emc": 1152
-    },
-    {
-      "item": "silents_mechanisms:signalum_ingot",
-      "emc": 1536
-    },
-    {
-      "item": "silents_mechanisms:lumium_ingot",
-      "emc": 2816
-    },
-    {
-      "item": "silents_mechanisms:enderium_ingot",
-      "emc": 9728
-    },
-    {
-      "item": "silents_mechanisms:plastic_pellets",
-      "emc": 8
     },
     {
       "item": "quark:root_item",

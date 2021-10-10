@@ -19,3 +19,6 @@
 	[Compatibility.bloodmagic]
 		enable_compat_bloodmagic = true
 
+	[Compatibility.tconstruct]
+		enable_compat_tconstruct = true
+

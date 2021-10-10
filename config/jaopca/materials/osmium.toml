@@ -11,7 +11,3 @@
 	#The model type of the material.
 	modelType = "metallic"
 
-[silents_mechanisms]
-	#The byproduct material to output in Silent's Mechanisms' Crusher.
-	byproduct = "minecraft:cobblestone"
-

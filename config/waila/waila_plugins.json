@@ -74,6 +74,11 @@
   "woot": {
     "display_layout_items": true
   },
+  "darkpaintings": {
+    "show_artist": true,
+    "show_id": false,
+    "show_title": true
+  },
   "vampirism": {
     "show_player_info": true,
     "show_creature_info": true

@@ -10,7 +10,8 @@
     "anvils": true,
     "config_debug_print": false,
     "trident": true,
-    "beacon": true
+    "beacon": true,
+    "shears": true
   },
   "durabilities": {
     "elytra": 864,

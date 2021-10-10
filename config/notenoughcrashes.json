@@ -2,5 +2,6 @@
   "uploadCrashLogTo": "GIST",
   "disableReturnToMainMenu": false,
   "deobfuscateStackTrace": true,
-  "debugModIdentification": false
+  "debugModIdentification": false,
+  "forceCrashScreen": false
 }

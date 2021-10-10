@@ -37,6 +37,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Additional Banners](https://www.curseforge.com/minecraft/mc-mods/additional-banners)
 1. [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 1. [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
+1. [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry)
 1. [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 1. [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
 1. [Akashic Tome (by Vazkii)](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
@@ -87,6 +88,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
 1. [Compressium](https://www.curseforge.com/minecraft/mc-mods/compressium)
 1. [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+1. [Connected Textures Mod (CTM)](https://www.curseforge.com/minecraft/mc-mods/ctm)
 1. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 1. [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 1. [Corail Adventure Spawners](https://www.curseforge.com/minecraft/mc-mods/corail-adventurer-spawners)
@@ -117,8 +119,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [EMC Baubles](https://www.curseforge.com/minecraft/mc-mods/emc-baubles)
 1. [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 1. [End Portal Recipe](https://www.curseforge.com/minecraft/mc-mods/end-portal-recipe)
-1. [Ender Chests](https://www.curseforge.com/minecraft/mc-mods/enderchests)
-1. [Ender Tanks](https://www.curseforge.com/minecraft/mc-mods/endertanks)
+1. [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 1. [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
 1. [Eroding Stone Entities](https://www.curseforge.com/minecraft/mc-mods/eroding-stone-entities)
 1. [Extra Boats](https://www.curseforge.com/minecraft/mc-mods/extra-boats)
@@ -132,7 +133,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 1. [FFS - Fancy Fluid Storage](https://www.curseforge.com/minecraft/mc-mods/ffs-fancy-fluid-storage)
 1. [Fixed Anvil Repair Cost](https://www.curseforge.com/minecraft/mc-mods/fixed-anvil-repair-cost)
-1. [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) - May be removed, we already have Mekanism and Immersive Engineering that handle energy, but this has some cool features they don't...
 1. [Forge Endertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 1. [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 1. [Friendly Fire](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)
@@ -170,6 +170,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Kelp Fertilizer](https://www.curseforge.com/minecraft/mc-mods/kelp-fertilizer)
 1. [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
 1. [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)
+1. [LibVulpes](https://www.curseforge.com/minecraft/mc-mods/libvulpes) - Required by Advanced Rocketry
 1. [LibX](https://www.curseforge.com/minecraft/mc-mods/libx)
 1. [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 1. [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
@@ -219,7 +220,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 1. [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
-1. [Pedestals](https://www.curseforge.com/minecraft/mc-mods/pedestals) - May be removed, we have pedestals for display from various mods and other item/energy/fluid transfer mods.
 1. [Pet Names](https://www.curseforge.com/minecraft/mc-mods/pet-names)
 1. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 1. [Plato's Transporters (Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/platos-transporters)
@@ -235,7 +235,9 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
    * `level-type="quark_realistic"`
 1. [Random Patches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
 1. [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+1. [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 1. [Refined Storage - Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)
+1. [Reliquary v1.3](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
 1. [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 1. [Resourceful Bees](https://www.curseforge.com/minecraft/mc-mods/resourceful-bees)
 1. [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
@@ -247,10 +249,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 1. [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 1. [ShetiPhianCore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
-1. [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) - May be removed, to be replaced by Tinker's Construct
-1. [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) - May be removed, to be replaced by Tinker's Construct
-1. [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) - May be removed, to be replaced by Tinker's Construct
-1. [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms) - May be removed, to be replaced by Tinker's Construct
 1. [Simple Sponge](https://www.curseforge.com/minecraft/mc-mods/simple-sponge)
 1. [Sit](https://www.curseforge.com/minecraft/mc-mods/sit)
 1. [Smooth Boot (Forge)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
@@ -270,6 +268,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [The Abyss: Chapter II](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)
 1. [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 1. [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
+1. [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 1. [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
 1. [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 1. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
@@ -278,6 +277,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
 1. [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 1. [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
+1. [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 1. [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 1. [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
 1. [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
@@ -287,7 +287,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Vampirism - Become a vampire!](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
 1. [Vampirism Integrations](https://www.curseforge.com/minecraft/mc-mods/vampirism-integrations)
 1. [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names)
-1. [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)1
+1. [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)
 1. [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 1. [Waystones2Waypoints](https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints)
 1. [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
@@ -302,9 +302,5 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Mods to be added once released for 1.16.5
-1. [Connected Textures Mod (CTM)](https://www.curseforge.com/minecraft/mc-mods/ctm)
 1. [Not Enough Wands](https://www.curseforge.com/minecraft/mc-mods/not-enough-wands)
-1. [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files)
-1. [Reliquary v1.3](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
-1. [Space-Bosstools](https://www.curseforge.com/minecraft/mc-mods/space-bosstools) (pending [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate)) or [The Outer Space Mod](https://www.curseforge.com/minecraft/mc-mods/theouterspacemod)
 
