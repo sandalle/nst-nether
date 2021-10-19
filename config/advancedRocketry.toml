@@ -132,96 +132,94 @@
 	PlanetSkyOverride = true
 	#Advanced visual effects
 	advancedVFX = true
+	#If UI is not locked, the middle mouse can be used to drag certain AR UIs around the screen, positions are saved on hitting quit in the menu
+	lockUI = true
 
-	[Client.Performance]
-		#BitMask: 0: no threading, radius based; 1: threading, radius based; 2: no threading volume based; 3: threading volume based
-		atmosphereCalculationMethod = 3
-		#Radius of the O2 vent.  if atmosphereCalculationMethod is 2 or 3 then max volume is calculated from this radius.  WARNING: larger numbers can lead to lag
-		oxygenVentSize = 32
+[Performance]
+	#BitMask: 0: no threading, radius based; 1: threading, radius based; 2: no threading volume based; 3: threading volume based
+	atmosphereCalculationMethod = 3
+	#Radius of the O2 vent.  if atmosphereCalculationMethod is 2 or 3 then max volume is calculated from this radius.  WARNING: larger numbers can lead to lag
+	oxygenVentSize = 32
 
-	[Client.Rockets]
-		#How high the rocket has to go before it reaches orbit
-		#Range: > 255
-		OrbitHeight = 1000
-		#List of fluid names for fluids that can be used as rocket monopropellants
-		rocketFuels = ["advancedrocketry:rocket_fuel;2"]
-		#List of fluid names for fluids that can be used as rocket bipropellant fuels
-		rocketBipropellants = ["advancedrocketry:hydrogen"]
-		#List of fluid names for fluids that can be used as rocket bipropellant oxidizers
-		rocketOxidizers = ["oxygen"]
-		#List of fluid names for fluids that can be used as rocket nuclear working fuels
-		rocketWorkingFluids = ["hydrogen"]
-		#Setting to false will disable the retrorockets that fire automatically on reentry on both player and automated rockets
-		autoRetroRockets = true
-		#If true, planets with higher gravity require more fuel and lower gravity would require less
-		gravityAffectsFuels = true
-		#If true, rockets will be able to actually fly around space
-		experimentalSpaceFlight = false
-		#Set to false if rockets should not require fuel to fly
-		rocketsRequireFuel = true
-		#Set to false if rockets should not be able to be fueled by and and will require a fueling station
-		canBeFueledByHand = true
-		#Multiplier for per-engine thrust
-		thrustMultiplier = 1.0
-		#Multiplier for per-tank capacity
-		fuelCapacityMultiplier = 1.0
-		#Mod:Blockname  for example "minecraft:chest"
-		rocketBlockBlackList = ["minecraft:portal", "minecraft:bedrock", "minecraft:snow_layer", "minecraft:flowing_water", "minecraft:lava", "minecraft:flowing_lava"]
-		#Set to false if rockets should not damage blocks
-		rocketsDamageBlocks = false
-		#How high the rocket has to go before it reaches station clearance
-		#Range: > 255
-		stationClearanceHeight = 1000
-		#TBI multiplier for asteroid flights
-		asteroidTBIBurnMult = 1.0
-		#How long transbody injection is before the rocket can exit
-		transBodyInjection = 0
-		#TBI multiplier for warp flights
-		warpTBIBurnMult = 10.0
+[Rockets]
+	#How high the rocket has to go before it reaches orbit
+	#Range: > 255
+	OrbitHeight = 1000
+	#List of fluid names for fluids that can be used as rocket monopropellants
+	rocketFuels = ["advancedrocketry:rocket_fuel;2"]
+	#List of fluid names for fluids that can be used as rocket bipropellant oxidizers
+	rocketBipropellants = ["oxygen"]
+	#Setting to false will disable the retrorockets that fire automatically on reentry on both player and automated rockets
+	autoRetroRockets = true
+	#If true, planets with higher gravity require more fuel and lower gravity would require less
+	gravityAffectsFuels = true
+	#If true, rockets will be able to actually fly around space
+	experimentalSpaceFlight = false
+	#Set to false if rockets should not require fuel to fly
+	rocketsRequireFuel = true
+	#Set to false if rockets should not be able to be fueled by and and will require a fueling station
+	canBeFueledByHand = true
+	#Multiplier for per-engine thrust
+	thrustMultiplier = 1.0
+	#Multiplier for per-tank capacity
+	fuelCapacityMultiplier = 1.0
+	#Mod:Blockname  for example "minecraft:chest"
+	rocketBlockBlackList = ["minecraft:portal", "minecraft:bedrock", "minecraft:snow_layer", "minecraft:flowing_water", "minecraft:lava", "minecraft:flowing_lava"]
+	#Set to false if rockets should not damage blocks
+	rocketsDamageBlocks = false
+	#How high the rocket has to go before it reaches station clearance
+	#Range: > 255
+	stationClearanceHeight = 1000
+	#TBI multiplier for asteroid flights
+	asteroidTBIBurnMult = 1.0
+	#How long transbody injection is before the rocket can exit
+	transBodyInjection = 0
+	#TBI multiplier for warp flights
+	warpTBIBurnMult = 10.0
 
-	[Client."World Generation"]
-		#Should Electric Mushrooms be able to spawn lightning
-		electricPlantsSpawnLightning = true
-		#List of block names of blocks (usally ores) allowed to spawn in geodes
-		geodeOres = ["minecraft:iron_ore", "minecraft:gold_ore", "libvulpes:orecopper", "libvulpes:oretin", "minecraft:redstone_ore"]
-		#True if the ores in geodeOres should be a blacklist
-		geodeOres_blacklist = false
-		#If true, then ore-containing geodes are generated on high pressure planets
-		generateGeodes = true
-		#average size of the geodes
-		geodeBaseSize = 36
-		#variation in geode size
-		geodeVariation = 24
-		#If true, then low pressure planets will have meteor craters.  Note: setting this option to false overrides 'generageCraters' in the planetDefs.xml
-		generateCraters = true
-		#If true, then very hot planets planets will volcanos.  Note: setting this option to false overrides 'generateVolcanos' in the planetDefs.xml
-		generateVolcanos = true
-		#Enable to allow structures like villages and mineshafts to generate on planets with a breathable atmosphere.  Note, setting this to false will override 'generateStructures' in the planetDefs.xml
-		generateVanillaStructures = false
-		#List of Biomes to be blacklisted from spawning as BiomeIds, default is: river, sky, hell, void, alienForest
-		BlacklistedBiomes = ["minecraft:river", "minecraft:the_end", "minecraft:badlands", "minecraft:the_void"]
-		#Biomes that only spawn on worlds with pressures over 125, will override blacklist.
-		HighPressureBiomes = []
-		#Some worlds have a chance of spawning single biomes contained in this list.
-		SingleBiomes = ["minecraft:desert_hills", "minecraft:mushroom_fields", "minecraft:tall_birch_hills", "minecraft:ice_spikes"]
-		EnableOreGen = true
-		GenerateCopper = true
-		CopperPerClump = 6
-		CopperPerChunk = 10
-		GenerateTin = true
-		TinPerClump = 6
-		TinPerChunk = 10
-		generateDilithium = true
-		DilithiumPerClump = 16
-		DilithiumPerChunk = 1
-		DilithiumPerChunkLuna = 10
-		generateAluminum = true
-		AluminumPerClump = 16
-		AluminumPerChunk = 1
-		generateIridium = false
-		IridiumPerClump = 16
-		IridiumPerChunk = 1
-		GenerateRutile = true
-		RutilePerClump = 6
-		RutilePerChunk = 6
+["World Generation"]
+	#Should Electric Mushrooms be able to spawn lightning
+	electricPlantsSpawnLightning = true
+	#List of block names of blocks (usally ores) allowed to spawn in geodes
+	geodeOres = ["minecraft:iron_ore", "minecraft:gold_ore", "libvulpes:orecopper", "libvulpes:oretin", "minecraft:redstone_ore"]
+	#True if the ores in geodeOres should be a blacklist
+	geodeOres_blacklist = false
+	#If true, then ore-containing geodes are generated on high pressure planets
+	generateGeodes = true
+	#average size of the geodes
+	geodeBaseSize = 36
+	#variation in geode size
+	geodeVariation = 24
+	#If true, then low pressure planets will have meteor craters.  Note: setting this option to false overrides 'generageCraters' in the planetDefs.xml
+	generateCraters = true
+	#If true, then very hot planets planets will volcanos.  Note: setting this option to false overrides 'generateVolcanos' in the planetDefs.xml
+	generateVolcanos = true
+	#Enable to allow structures like villages and mineshafts to generate on planets with a breathable atmosphere.  Note, setting this to false will override 'generateStructures' in the planetDefs.xml
+	generateVanillaStructures = false
+	#List of Biomes to be blacklisted from spawning as BiomeIds, default is: river, sky, hell, void, alienForest
+	BlacklistedBiomes = ["minecraft:river", "minecraft:the_end", "minecraft:badlands", "minecraft:the_void"]
+	#Biomes that only spawn on worlds with pressures over 125, will override blacklist.
+	HighPressureBiomes = []
+	#Some worlds have a chance of spawning single biomes contained in this list.
+	SingleBiomes = ["minecraft:desert_hills", "minecraft:mushroom_fields", "minecraft:tall_birch_hills", "minecraft:ice_spikes"]
+	EnableOreGen = true
+	GenerateCopper = true
+	CopperPerClump = 6
+	CopperPerChunk = 10
+	GenerateTin = true
+	TinPerClump = 6
+	TinPerChunk = 10
+	generateDilithium = true
+	DilithiumPerClump = 16
+	DilithiumPerChunk = 1
+	DilithiumPerChunkLuna = 10
+	generateAluminum = true
+	AluminumPerClump = 16
+	AluminumPerChunk = 1
+	generateIridium = false
+	IridiumPerClump = 16
+	IridiumPerChunk = 1
+	GenerateRutile = true
+	RutilePerClump = 6
+	RutilePerChunk = 6
 
