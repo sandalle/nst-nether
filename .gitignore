@@ -29,6 +29,7 @@ config/cosmeticarmorreworked-client.toml
 config/craftingtweaks-client.toml
 config/cucumber-client.toml
 config/curios-client.toml
+config/cyclic-client.toml
 config/dsurround/dsurround-client.toml
 config/dsurround/environs-client.toml
 config/dsurround/mobeffects-client.toml

@@ -143,6 +143,22 @@
 			#Power per tick while in use
 			#Range: 0 ~ 64000
 			structure = 10
+			#Power per recipe in the packager
+			#Range: 0 ~ 64000
+			packager = 50
+
+		[cyclic.energy.generator_fuel]
+			#RF energy per tick generated while burning furnace fuel in this machine.  Burn time in ticks is the same as furnace values, so 1 coal = 1600 ticks
+			#Range: 1 ~ 6400
+			rf_per_tick = 80
+
+		[cyclic.energy.generator_food]
+			#RF energy per tick generated while burning food in this machine
+			#Range: 1 ~ 6400
+			rf_per_tick = 60
+			#This [factor * (item.food + item.saturation) = ticks] results in the number of ticks food will burn at. IE Bread has (5 + 0.6) with factor 100, will burn for 560 ticks.
+			#Range: 1 ~ 6400
+			ticks_per_food = 100
 
 	#####################################################################################
 	#Fluid cost for various machines
@@ -243,6 +259,11 @@
 				#True means left, False means right
 				prefer_left_wall = false
 
+			[cyclic.items.charms.charm_torch]
+				#Light level limit for placing torches
+				#Range: 0 ~ 15
+				light_level = 9
+
 		#####################################################################################
 		# Edible chorus settings
 		#####################################################################################
@@ -276,6 +297,11 @@
 			#Maximum number of hearts that can be attained (including initial 10)
 			#Range: 1 ~ 200
 			maximum = 100
+
+		[cyclic.items.prospector]
+			#Ore Prospector radius around player to search for ores
+			#Range: 1 ~ 99
+			range = 32
 
 	#####################################################################################
 	# Block specific configs
@@ -335,4 +361,10 @@
 			#Ticks used for each uncraft
 			#Range: 1 ~ 9999
 			ticks = 60
+
+		#Ender shelf settings
+		[cyclic.blocks.sound]
+			#Sound Recorder - how far out does it listen to record sounds
+			#Range: 1 ~ 64
+			radius = 8
 
