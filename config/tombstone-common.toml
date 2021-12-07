@@ -98,9 +98,6 @@
 	#Cooldown in minutes to use the command tbbind [-1..1440|default:-1]
 	#Range: -1 ~ 1440
 	cooldown_teleport_bind = -1
-	#Cooldown in minutes to use the perk Tomb Raider [60..1440|default:60]
-	#Range: 60 ~ 1440
-	cooldown_tomb_raiding = 60
 	#Fishing treasures can only be found in open water [false/true|default:true]
 	fishing_treasure_in_open_water = true
 
@@ -154,11 +151,13 @@
 	#Duration of voodoo poppet's effects in seconds when preventing death [5..60000|default:60]
 	#Range: 5 ~ 60000
 	duration_voodoo_poppet_effects = 60
+	#Damaged items can be recycled with the Book of Recycling
+	can_recycle_damaged_item = true
+	#The items that can't be recycled by the Book of Recycling
+	denied_item_to_recycle = []
 
 #Allows to customize or disable the enchantments
 [enchantments]
-	#Restricts the effect of Shadow Step to players [false/true|default:false]
-	restrict_shadow_step_to_player = false
 	#Shadow Step is disabled for 10 seconds by opening a chest [false/true|default:true]
 	nerf_shadow_step_open_chest = true
 	#The wearer is also affected by the effect if his alignment is not bad [false/true|default:true]
