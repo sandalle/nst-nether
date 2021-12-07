@@ -2091,6 +2091,62 @@
     {
       "item": "mysticalagriculture:dye_essence",
       "emc": 6
+    },
+    {
+      "item": "minecraft:magenta_dye",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:clear_glass",
+      "emc": 1
+    },
+    {
+      "item": "aquaculture:gar",
+      "emc": 64
+    },
+    {
+      "item": "aquaculture:bluegill",
+      "emc": 64
+    },
+    {
+      "item": "aquaculture:smallmouth_bass",
+      "emc": 64
+    },
+    {
+      "item": "aquaculture:minnow{Damage:0}",
+      "emc": 64
+    },
+    {
+      "item": "aquaculture:brown_trout",
+      "emc": 64
+    },
+    {
+      "item": "aquaculture:perch",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:sky_slime_dirt",
+      "emc": 288
+    },
+    {
+      "item": "janoeo:coal_dust",
+      "emc": 128
+    },
+    {
+      "item": "iceandfire:frozen_stone",
+      "emc": 81
+    },
+    {
+      "item": "quark:cobbled_deepslate",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:bramble",
+      "emc": 8
     }
   ]
 }
