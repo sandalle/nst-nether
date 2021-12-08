@@ -2147,6 +2147,10 @@
     {
       "item": "biomesoplenty:bramble",
       "emc": 8
+    },
+    {
+      "item": "vampirism:cursed_earth",
+      "emc": 49
     }
   ]
 }
