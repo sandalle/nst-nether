@@ -2151,6 +2151,34 @@
     {
       "item": "vampirism:cursed_earth",
       "emc": 49
+    },
+    {
+      "item": "iceandfire:frozen_splinters",
+      "emc": 81
+    },
+    {
+      "item": "iceandfire:frozen_grass",
+      "emc": 81
+    },
+    {
+      "item": "iceandfire:chared_stone",
+      "emc": 1
+    },
+    {
+      "item": "iceandfire:chared_grass",
+      "emc": 1
+    },
+    {
+      "item": "iceandfire:chared_dirt",
+      "emc": 1
+    },
+    {
+      "item": "immersiveengineering:coal_coke",
+      "emc": 128
+    },
+    {
+      "item": "botania:pebble",
+      "emc": 1
     }
   ]
 }
