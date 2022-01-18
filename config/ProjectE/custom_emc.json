@@ -2179,6 +2179,22 @@
     {
       "item": "botania:pebble",
       "emc": 1
+    },
+    {
+      "item": "iceandfire:crackled_stone",
+      "emc": 1
+    },
+    {
+      "item": "iceandfire:crackled_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "libvulpes:dustdilithium",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:creosote_bucket",
+      "emc": 800
     }
   ]
 }
