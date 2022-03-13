@@ -89,6 +89,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Compressium](https://www.curseforge.com/minecraft/mc-mods/compressium)
 1. [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
 1. [Connected Textures Mod (CTM)](https://www.curseforge.com/minecraft/mc-mods/ctm)
+1. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 1. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 1. [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 1. [Corail Adventure Spawners](https://www.curseforge.com/minecraft/mc-mods/corail-adventurer-spawners)
